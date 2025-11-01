@@ -1,0 +1,5302 @@
+[
+  {
+    "disease_id": "D795",
+    "disease_name": "10001",
+    "description": "Medical condition: 10001",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10001"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10001",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4461",
+    "disease_name": "10005",
+    "description": "Medical condition: 10005",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10005"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10005",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D1184",
+    "disease_name": "10006",
+    "description": "Medical condition: 10006",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10006"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10006",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D2667",
+    "disease_name": "10008",
+    "description": "Medical condition: 10008",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10008"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10008",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D1823",
+    "disease_name": "10009",
+    "description": "Medical condition: 10009",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10009"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10009",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D6656",
+    "disease_name": "10011",
+    "description": "Medical condition: 10011",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10011"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10011",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D1111",
+    "disease_name": "10013",
+    "description": "Medical condition: 10013",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10013"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10013",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4477",
+    "disease_name": "10021",
+    "description": "Medical condition: 10021",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10021"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10021",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D1778",
+    "disease_name": "10022",
+    "description": "Medical condition: 10022",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10022"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10022",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4305",
+    "disease_name": "10024",
+    "description": "Medical condition: 10024",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10024"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10024",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D5999",
+    "disease_name": "10025",
+    "description": "Medical condition: 10025",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10025"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10025",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D1039",
+    "disease_name": "10026",
+    "description": "Medical condition: 10026",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10026"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10026",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D9816",
+    "disease_name": "10027",
+    "description": "Medical condition: 10027",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10027"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10027",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D231",
+    "disease_name": "10028",
+    "description": "Medical condition: 10028",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10028"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10028",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D9271",
+    "disease_name": "10030",
+    "description": "Medical condition: 10030",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10030"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10030",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D2637",
+    "disease_name": "10031",
+    "description": "Medical condition: 10031",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10031"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10031",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D2671",
+    "disease_name": "10032",
+    "description": "Medical condition: 10032",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10032"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10032",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4051",
+    "disease_name": "10033",
+    "description": "Medical condition: 10033",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10033"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10033",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D6133",
+    "disease_name": "10034",
+    "description": "Medical condition: 10034",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10034"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10034",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D3245",
+    "disease_name": "10035",
+    "description": "Medical condition: 10035",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10035"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10035",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D7216",
+    "disease_name": "10036",
+    "description": "Medical condition: 10036",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10036"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10036",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D9733",
+    "disease_name": "10037",
+    "description": "Medical condition: 10037",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10037"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10037",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4178",
+    "disease_name": "10038",
+    "description": "Medical condition: 10038",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10038"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10038",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D3858",
+    "disease_name": "10040",
+    "description": "Medical condition: 10040",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10040"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10040",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D7680",
+    "disease_name": "10041",
+    "description": "Medical condition: 10041",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10041"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10041",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D9703",
+    "disease_name": "10042",
+    "description": "Medical condition: 10042",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10042"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10042",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D2542",
+    "disease_name": "10043",
+    "description": "Medical condition: 10043",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10043"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10043",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D7133",
+    "disease_name": "10051",
+    "description": "Medical condition: 10051",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10051"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10051",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D6045",
+    "disease_name": "10052",
+    "description": "Medical condition: 10052",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10052"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10052",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D874",
+    "disease_name": "10053",
+    "description": "Medical condition: 10053",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10053"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10053",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D1830",
+    "disease_name": "10054",
+    "description": "Medical condition: 10054",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10054"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10054",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D6530",
+    "disease_name": "10073",
+    "description": "Medical condition: 10073",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10073"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10073",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4003",
+    "disease_name": "10075",
+    "description": "Medical condition: 10075",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10075"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10075",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D2578",
+    "disease_name": "10076",
+    "description": "Medical condition: 10076",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10076"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10076",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D7674",
+    "disease_name": "10079",
+    "description": "Medical condition: 10079",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10079"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10079",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4425",
+    "disease_name": "10080",
+    "description": "Medical condition: 10080",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10080"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10080",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D5760",
+    "disease_name": "10081",
+    "description": "Medical condition: 10081",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10081"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10081",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D406",
+    "disease_name": "10082",
+    "description": "Medical condition: 10082",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10082"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10082",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D7021",
+    "disease_name": "10179",
+    "description": "Medical condition: 10179",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10179"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10179",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D653",
+    "disease_name": "10180",
+    "description": "Medical condition: 10180",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10180"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10180",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D2233",
+    "disease_name": "10181",
+    "description": "Medical condition: 10181",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10181"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10181",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D2153",
+    "disease_name": "10183",
+    "description": "Medical condition: 10183",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10183"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10183",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D484",
+    "disease_name": "10184",
+    "description": "Medical condition: 10184",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10184"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10184",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4248",
+    "disease_name": "10190",
+    "description": "Medical condition: 10190",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10190"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10190",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D1180",
+    "disease_name": "10192",
+    "description": "Medical condition: 10192",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10192"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10192",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D1853",
+    "disease_name": "10193",
+    "description": "Medical condition: 10193",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10193"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10193",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D3183",
+    "disease_name": "10194",
+    "description": "Medical condition: 10194",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10194"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10194",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4793",
+    "disease_name": "10195",
+    "description": "Medical condition: 10195",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10195"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10195",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D2333",
+    "disease_name": "10196",
+    "description": "Medical condition: 10196",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10196"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10196",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D9409",
+    "disease_name": "10197",
+    "description": "Medical condition: 10197",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10197"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10197",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D5870",
+    "disease_name": "10199",
+    "description": "Medical condition: 10199",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10199"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10199",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4552",
+    "disease_name": "10202",
+    "description": "Medical condition: 10202",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10202"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10202",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D3884",
+    "disease_name": "10203",
+    "description": "Medical condition: 10203",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10203"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10203",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D3155",
+    "disease_name": "10205",
+    "description": "Medical condition: 10205",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10205"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10205",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D5325",
+    "disease_name": "10206",
+    "description": "Medical condition: 10206",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10206"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10206",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D5181",
+    "disease_name": "10233",
+    "description": "Medical condition: 10233",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10233"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10233",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D9231",
+    "disease_name": "10235",
+    "description": "Medical condition: 10235",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10235"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10235",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D3058",
+    "disease_name": "10236",
+    "description": "Medical condition: 10236",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10236"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10236",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D269",
+    "disease_name": "10237",
+    "description": "Medical condition: 10237",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10237"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10237",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D2649",
+    "disease_name": "10240",
+    "description": "Medical condition: 10240",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10240"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10240",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D9365",
+    "disease_name": "10241",
+    "description": "Medical condition: 10241",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10241"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10241",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D667",
+    "disease_name": "10242",
+    "description": "Medical condition: 10242",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10242"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10242",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D5464",
+    "disease_name": "10243",
+    "description": "Medical condition: 10243",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10243"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10243",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D5276",
+    "disease_name": "10245",
+    "description": "Medical condition: 10245",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10245"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10245",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D3550",
+    "disease_name": "10246",
+    "description": "Medical condition: 10246",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10246"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10246",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D9315",
+    "disease_name": "10247",
+    "description": "Medical condition: 10247",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10247"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10247",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D3498",
+    "disease_name": "10248",
+    "description": "Medical condition: 10248",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10248"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10248",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D6345",
+    "disease_name": "10249",
+    "description": "Medical condition: 10249",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10249"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10249",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D9058",
+    "disease_name": "10251",
+    "description": "Medical condition: 10251",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10251"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10251",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D8587",
+    "disease_name": "10252",
+    "description": "Medical condition: 10252",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10252"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10252",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D7843",
+    "disease_name": "10286",
+    "description": "Medical condition: 10286",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10286"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10286",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4096",
+    "disease_name": "10287",
+    "description": "Medical condition: 10287",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10287"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10287",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D3159",
+    "disease_name": "10289",
+    "description": "Medical condition: 10289",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10289"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10289",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D8996",
+    "disease_name": "10290",
+    "description": "Medical condition: 10290",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10290"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10290",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D1520",
+    "disease_name": "10292",
+    "description": "Medical condition: 10292",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10292"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10292",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D3771",
+    "disease_name": "10293",
+    "description": "Medical condition: 10293",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10293"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10293",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D796",
+    "disease_name": "10297",
+    "description": "Medical condition: 10297",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10297"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10297",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D8794",
+    "disease_name": "10299",
+    "description": "Medical condition: 10299",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10299"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10299",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D6129",
+    "disease_name": "10302",
+    "description": "Medical condition: 10302",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10302"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10302",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D5223",
+    "disease_name": "10303",
+    "description": "Medical condition: 10303",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10303"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10303",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D5793",
+    "disease_name": "10305",
+    "description": "Medical condition: 10305",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10305"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10305",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D8622",
+    "disease_name": "10307",
+    "description": "Medical condition: 10307",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10307"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10307",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D5726",
+    "disease_name": "10308",
+    "description": "Medical condition: 10308",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10308"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10308",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D957",
+    "disease_name": "10310",
+    "description": "Medical condition: 10310",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10310"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10310",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D2686",
+    "disease_name": "10311",
+    "description": "Medical condition: 10311",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10311"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10311",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D7010",
+    "disease_name": "10312",
+    "description": "Medical condition: 10312",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10312"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10312",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D5282",
+    "disease_name": "10313",
+    "description": "Medical condition: 10313",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10313"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10313",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D7655",
+    "disease_name": "10315",
+    "description": "Medical condition: 10315",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10315"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10315",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D3420",
+    "disease_name": "10316",
+    "description": "Medical condition: 10316",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10316"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10316",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4713",
+    "disease_name": "10317",
+    "description": "Medical condition: 10317",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10317"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10317",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4485",
+    "disease_name": "10318",
+    "description": "Medical condition: 10318",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10318"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10318",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D6220",
+    "disease_name": "10319",
+    "description": "Medical condition: 10319",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10319"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10319",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D9570",
+    "disease_name": "10320",
+    "description": "Medical condition: 10320",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10320"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10320",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D2238",
+    "disease_name": "10321",
+    "description": "Medical condition: 10321",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10321"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10321",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D5960",
+    "disease_name": "10322",
+    "description": "Medical condition: 10322",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10322"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10322",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D3391",
+    "disease_name": "10323",
+    "description": "Medical condition: 10323",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10323"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10323",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D9119",
+    "disease_name": "10324",
+    "description": "Medical condition: 10324",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10324"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10324",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D204",
+    "disease_name": "10326",
+    "description": "Medical condition: 10326",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10326"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10326",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4836",
+    "disease_name": "10328",
+    "description": "Medical condition: 10328",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10328"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10328",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  },
+  {
+    "disease_id": "D4807",
+    "disease_name": "10330",
+    "description": "Medical condition: 10330",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to 10330"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for 10330",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "icd_codes": {
+      "icd10": [],
+      "icd9": []
+    },
+    "synonyms": [],
+    "related_conditions": [],
+    "information_sources": []
+  }
+]
