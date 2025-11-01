@@ -1,0 +1,10 @@
+{
+  "test_name": "aPTT (Activated Partial Thromboplastin Time)",
+  "normal_range": "25-35",
+  "unit": "seconds",
+  "abnormal_high_indication": [
+    "bleeding disorder",
+    "heparin therapy",
+    "hemophilia"
+  ]
+}

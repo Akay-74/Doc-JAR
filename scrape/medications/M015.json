@@ -1,0 +1,49 @@
+{
+  "drug_id": "M015",
+  "generic_name": "VALSARTAN",
+  "brand_names": [
+    "Valsartan"
+  ],
+  "drug_class": "Angiotensin 2 Receptor Blocker [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Nausea",
+    "Dizziness",
+    "Hypertension",
+    "Headache",
+    "Fatigue",
+    "Cough",
+    "Rash",
+    "Hypotension",
+    "Edema",
+    "Abdominal pain"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "NSAID",
+      "effect": "May increase risk of bleeding"
+    },
+    {
+      "drug_name_or_class": "diuretic",
+      "effect": "May alter electrolyte balance"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

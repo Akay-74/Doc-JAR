@@ -1,0 +1,56 @@
+{
+  "drug_id": "M127",
+  "generic_name": "LISINOPRIL AND HYDROCHLOROTHIAZIDE TABLETS",
+  "brand_names": [
+    "Lisinopril and Hydrochlorothiazide"
+  ],
+  "drug_class": "Thiazide Diuretic [EPC]",
+  "indications": [],
+  "dosage_protocol": {
+    "adult_dose": "10-40mg",
+    "pediatric_dose": null,
+    "frequency": "once daily",
+    "duration": "chronic therapy",
+    "timing": "same time each day",
+    "max_daily_dose": null
+  },
+  "adverse_effects": [
+    "Dyspnea",
+    "Nausea",
+    "Dizziness",
+    "Weakness",
+    "Diarrhea",
+    "Tachycardia",
+    "Constipation",
+    "Fatigue",
+    "Cough",
+    "Rash"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "NSAID",
+      "effect": "May increase risk of bleeding"
+    },
+    {
+      "drug_name_or_class": "diuretic",
+      "effect": "May alter electrolyte balance"
+    }
+  ],
+  "pregnancy_category": "category_D: Avoid unless benefits outweigh risks",
+  "special_populations": {
+    "pregnancy": "category_D: Avoid unless benefits outweigh risks",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

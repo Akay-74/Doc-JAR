@@ -1,0 +1,13 @@
+{
+  "test_name": "ESR (Erythrocyte Sedimentation Rate)",
+  "normal_range_male": "0-15",
+  "normal_range_female": "0-20",
+  "unit": "mm/hr",
+  "abnormal_high_indication": [
+    "inflammation",
+    "infection",
+    "autoimmune disease",
+    "cancer",
+    "anemia"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "drug_id": "M019",
+  "generic_name": "APIXABAN",
+  "brand_names": [
+    "apixaban"
+  ],
+  "drug_class": "Factor Xa Inhibitor [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Hypotension",
+    "Edema",
+    "Nausea",
+    "Rash"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "NSAID",
+      "effect": "May increase risk of bleeding"
+    },
+    {
+      "drug_name_or_class": "anticoagulant",
+      "effect": "Increased bleeding risk"
+    },
+    {
+      "drug_name_or_class": "warfarin",
+      "effect": "Significantly increased bleeding risk"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

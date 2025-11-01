@@ -1,0 +1,12 @@
+{
+  "test_name": "Creatinine",
+  "normal_range_male": "0.7-1.3",
+  "normal_range_female": "0.6-1.1",
+  "unit": "mg/dL",
+  "abnormal_high_indication": [
+    "chronic kidney disease",
+    "acute kidney injury",
+    "dehydration",
+    "muscle disorders"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "disease_id": "D036",
+  "disease_name": "Asthma",
+  "description": "Medical condition: asthma",
+  "category": "Respiratory Disease",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to asthma"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "Clinical evaluation and appropriate tests",
+      "diagnostic_finding": "As indicated for asthma",
+      "necessity": "High"
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "triggers_to_avoid": [
+      "smoke",
+      "air pollution",
+      "dust mites",
+      "pet dander",
+      "pollen",
+      "mold",
+      "strong odors",
+      "cold air"
+    ],
+    "lifestyle": {
+      "environment": "keep home clean, use air purifiers",
+      "exercise": "regular exercise with warm-up",
+      "immunizations": "get flu and pneumonia vaccines"
+    },
+    "precautions": [
+      "always carry rescue inhaler",
+      "use spacer with inhaler",
+      "rinse mouth after corticosteroid inhaler use",
+      "have asthma action plan"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "follow_up": "as directed by physician"
+  },
+  "when_to_see_doctor_urgently": [
+    "severe difficulty breathing",
+    "blue lips",
+    "inability to speak"
+  ]
+}

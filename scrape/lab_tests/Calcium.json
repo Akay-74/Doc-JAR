@@ -1,0 +1,16 @@
+{
+  "test_name": "Calcium",
+  "normal_range": "8.5-10.2",
+  "unit": "mg/dL",
+  "abnormal_low_indication": [
+    "hypocalcemia",
+    "vitamin D deficiency",
+    "hypoparathyroidism"
+  ],
+  "abnormal_high_indication": [
+    "hypercalcemia",
+    "hyperparathyroidism",
+    "cancer",
+    "vitamin D toxicity"
+  ]
+}

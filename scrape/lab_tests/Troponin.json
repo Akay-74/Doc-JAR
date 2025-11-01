@@ -1,0 +1,11 @@
+{
+  "test_name": "Troponin",
+  "normal_range": "<0.04",
+  "unit": "ng/mL",
+  "abnormal_high_indication": [
+    "myocardial infarction",
+    "heart attack",
+    "myocarditis",
+    "heart failure"
+  ]
+}

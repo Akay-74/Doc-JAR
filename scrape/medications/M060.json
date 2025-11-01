@@ -1,0 +1,45 @@
+{
+  "drug_id": "M060",
+  "generic_name": "CLONAZEPAM",
+  "brand_names": [
+    "Clonazepam"
+  ],
+  "drug_class": "Benzodiazepine [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Dyspnea",
+    "Insomnia",
+    "Nausea",
+    "Dizziness",
+    "Weakness",
+    "Headache",
+    "Fatigue",
+    "Constipation",
+    "Cough",
+    "Rash"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [],
+    "existing_diseases": [
+      {
+        "disease_id": "TBD_LIVER",
+        "adverse_effect": "May cause hepatotoxicity"
+      }
+    ],
+    "other_conditions": [
+      "Pregnancy"
+    ]
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

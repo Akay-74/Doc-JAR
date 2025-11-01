@@ -1,0 +1,48 @@
+{
+  "drug_id": "M061",
+  "generic_name": "ROSUVASTATIN CALCIUM",
+  "brand_names": [
+    "Rosuvastatin Calcium"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Insomnia",
+    "Nausea",
+    "Dizziness",
+    "Headache",
+    "Constipation",
+    "Rash",
+    "Edema",
+    "Abdominal pain"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [
+      {
+        "disease_id": "TBD_LIVER",
+        "adverse_effect": "May cause hepatotoxicity"
+      }
+    ],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "warfarin",
+      "effect": "Significantly increased bleeding risk"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

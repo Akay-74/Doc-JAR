@@ -1,0 +1,52 @@
+{
+  "drug_id": "M052",
+  "generic_name": "ONDANSETRON HYDROCHLORIDE",
+  "brand_names": [
+    "ondansetron hydrochloride"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": {
+    "adult_dose": "4-8mg",
+    "pediatric_dose": "0.15mg/kg",
+    "frequency": "every 8 hours as needed",
+    "duration": "as needed",
+    "timing": "30 minutes before meals",
+    "max_daily_dose": null
+  },
+  "adverse_effects": [
+    "Nausea",
+    "Dizziness",
+    "Tachycardia",
+    "Headache",
+    "Fatigue",
+    "Vomiting",
+    "Constipation",
+    "Bradycardia",
+    "Rash",
+    "Hypotension"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "SSRI",
+      "effect": "Increased serotonin syndrome risk"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

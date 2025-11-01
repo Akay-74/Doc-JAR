@@ -1,0 +1,45 @@
+{
+  "drug_id": "M108",
+  "generic_name": "ARIPIPRAZOLE",
+  "brand_names": [
+    "Aripiprazole"
+  ],
+  "drug_class": "Atypical Antipsychotic [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Dyspnea",
+    "Insomnia",
+    "Nausea",
+    "Dizziness",
+    "Weakness",
+    "Headache",
+    "Fatigue",
+    "Vomiting",
+    "Constipation",
+    "Cough"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "warfarin",
+      "effect": "Significantly increased bleeding risk"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

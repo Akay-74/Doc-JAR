@@ -1,0 +1,4687 @@
+[
+  {
+    "disease_id": "D001",
+    "disease_name": "Obesity",
+    "description": "Medical condition: obesity",
+    "category": "Metabolic Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to obesity"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for obesity",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D002",
+    "disease_name": "Pancreatitis",
+    "description": "Medical condition: pancreatitis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to pancreatitis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for pancreatitis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D003",
+    "disease_name": "Gout",
+    "description": "Medical condition: gout",
+    "category": "Rheumatological Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to gout"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for gout",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D004",
+    "disease_name": "Bells Palsy",
+    "description": "Medical condition: bells palsy",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to bells palsy"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for bells palsy",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D005",
+    "disease_name": "Menopause",
+    "description": "Medical condition: menopause",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to menopause"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for menopause",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D006",
+    "disease_name": "Anemia",
+    "description": "Medical condition: anemia",
+    "category": "Hematological Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to anemia"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Hemoglobin",
+        "reference_range": {
+          "test_name": "Hemoglobin",
+          "normal_range_male": "13.8-17.2",
+          "normal_range_female": "12.1-15.1",
+          "unit": "g/dL",
+          "abnormal_low_indication": [
+            "iron deficiency anemia",
+            "vitamin B12 deficiency",
+            "chronic disease",
+            "blood loss",
+            "thalassemia"
+          ],
+          "abnormal_high_indication": [
+            "polycythemia vera",
+            "COPD",
+            "heart disease",
+            "dehydration",
+            "high altitude living"
+          ]
+        }
+      },
+      {
+        "test_name": "Hematocrit",
+        "reference_range": {
+          "test_name": "Hematocrit",
+          "normal_range_male": "40.7-50.3",
+          "normal_range_female": "36.1-44.3",
+          "unit": "%",
+          "abnormal_low_indication": [
+            "anemia",
+            "blood loss",
+            "malnutrition",
+            "leukemia",
+            "overhydration"
+          ],
+          "abnormal_high_indication": [
+            "dehydration",
+            "polycythemia",
+            "lung disease"
+          ]
+        }
+      },
+      {
+        "test_name": "RBC",
+        "reference_range": {}
+      },
+      {
+        "test_name": "MCV",
+        "reference_range": {}
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D007",
+    "disease_name": "Post Traumatic Stress Disorder",
+    "description": "Medical condition: post traumatic stress disorder",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to post traumatic stress disorder"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for post traumatic stress disorder",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D008",
+    "disease_name": "Fibromyalgia",
+    "description": "Medical condition: fibromyalgia",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to fibromyalgia"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for fibromyalgia",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D009",
+    "disease_name": "Osteoarthritis",
+    "description": "Medical condition: osteoarthritis",
+    "category": "Rheumatological Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to osteoarthritis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for osteoarthritis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D010",
+    "disease_name": "Hepatitis C",
+    "description": "Medical condition: hepatitis c",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to hepatitis c"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for hepatitis c",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D011",
+    "disease_name": "Pulmonary Hypertension",
+    "description": "Medical condition: pulmonary hypertension",
+    "category": "Cardiovascular Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to pulmonary hypertension"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for pulmonary hypertension",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D012",
+    "disease_name": "Cholecystitis",
+    "description": "Medical condition: cholecystitis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to cholecystitis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for cholecystitis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D013",
+    "disease_name": "Rosacea",
+    "description": "Medical condition: rosacea",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to rosacea"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for rosacea",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D014",
+    "disease_name": "Peripheral Neuropathy",
+    "description": "Medical condition: peripheral neuropathy",
+    "category": "Neurological Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to peripheral neuropathy"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for peripheral neuropathy",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D015",
+    "disease_name": "Psoriasis",
+    "description": "Medical condition: psoriasis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to psoriasis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for psoriasis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D016",
+    "disease_name": "Lupus",
+    "description": "Medical condition: lupus",
+    "category": "Rheumatological Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to lupus"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for lupus",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D017",
+    "disease_name": "Covid-19",
+    "description": "Medical condition: covid-19",
+    "category": "Infectious Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to covid-19"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for covid-19",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D018",
+    "disease_name": "Eczema",
+    "description": "Medical condition: eczema",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to eczema"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for eczema",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D019",
+    "disease_name": "Atrial Fibrillation",
+    "description": "Medical condition: atrial fibrillation",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to atrial fibrillation"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for atrial fibrillation",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D020",
+    "disease_name": "Stroke",
+    "description": "Medical condition: stroke",
+    "category": "Neurological Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to stroke"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for stroke",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D021",
+    "disease_name": "Major Depressive Disorder",
+    "description": "Medical condition: major depressive disorder",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to major depressive disorder"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for major depressive disorder",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "treatment_protocol": {
+      "first_episode_mild_moderate": {
+        "first_line_SSRIs": [
+          "sertraline 50mg daily, titrate to 100-200mg",
+          "escitalopram 10mg daily, titrate to 20mg",
+          "fluoxetine 20mg daily, titrate to 40-80mg"
+        ],
+        "alternative_SNRIs": [
+          "venlafaxine XR 75mg daily, titrate to 150-225mg",
+          "duloxetine 30mg daily, titrate to 60mg"
+        ],
+        "other_options": [
+          "bupropion XL 150mg daily, titrate to 300mg (if fatigue/no anxiety)",
+          "mirtazapine 15mg at bedtime, titrate to 30-45mg (if insomnia/poor appetite)"
+        ]
+      },
+      "severe_or_psychotic": {
+        "consider": "combination with antipsychotic OR ECT"
+      },
+      "duration": "continue for at least 6-12 months after remission",
+      "monitoring": "assess every 1-2 weeks initially, then monthly",
+      "counseling": "psychotherapy recommended in addition to medication"
+    }
+  },
+  {
+    "disease_id": "D022",
+    "disease_name": "Diabetes Mellitus Type 2",
+    "description": "Medical condition: diabetes mellitus type 2",
+    "category": "Metabolic Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to diabetes mellitus type 2"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Glucose (Fasting)",
+        "reference_range": {
+          "test_name": "Glucose (Fasting)",
+          "normal_range": "70-100",
+          "prediabetes_range": "100-125",
+          "diabetes_range": ">126",
+          "unit": "mg/dL",
+          "abnormal_low_indication": [
+            "hypoglycemia",
+            "insulinoma",
+            "adrenal insufficiency",
+            "liver disease",
+            "malnutrition"
+          ],
+          "abnormal_high_indication": [
+            "diabetes mellitus",
+            "prediabetes",
+            "stress",
+            "cushing syndrome",
+            "pancreatitis"
+          ]
+        }
+      },
+      {
+        "test_name": "HbA1c",
+        "reference_range": {}
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "HbA1c": "every 3 months if not at goal, every 6 months if stable",
+      "fasting_glucose": "as needed for adjustments",
+      "lipid_panel": "annually",
+      "kidney_function": "annually",
+      "eye_exam": "annually",
+      "foot_exam": "at each visit"
+    },
+    "when_to_see_doctor_urgently": [
+      "severe hypoglycemia",
+      "diabetic ketoacidosis symptoms"
+    ],
+    "treatment_protocol": {
+      "initial_therapy": {
+        "first_line": "metformin 500mg twice daily with meals, titrate to 1000mg twice daily over 2-4 weeks",
+        "if_metformin_not_tolerated": "consider extended-release metformin or alternative"
+      },
+      "HbA1c_not_at_goal": {
+        "add_second_agent": [
+          "empagliflozin 10-25mg daily (SGLT2i - if cardiovascular/renal disease)",
+          "liraglutide 0.6mg daily, titrate to 1.2-1.8mg (GLP-1 RA - if obesity/cardiovascular disease)",
+          "glipizide 5mg before breakfast (sulfonylurea - if cost issue)",
+          "sitagliptin 100mg daily (DPP-4i)"
+        ]
+      },
+      "HbA1c_very_high": {
+        "consider_insulin": "insulin glargine 10 units at bedtime, titrate by 2 units every 3 days"
+      },
+      "monitoring": {
+        "HbA1c": "every 3 months until at goal, then every 6 months",
+        "kidney_function": "annually",
+        "foot_exam": "at each visit"
+      },
+      "goal": "HbA1c <7% for most, individualize based on patient factors"
+    }
+  },
+  {
+    "disease_id": "D023",
+    "disease_name": "Metabolic Syndrome",
+    "description": "Medical condition: metabolic syndrome",
+    "category": "Metabolic Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to metabolic syndrome"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for metabolic syndrome",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D024",
+    "disease_name": "Cirrhosis",
+    "description": "Medical condition: cirrhosis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to cirrhosis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for cirrhosis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D025",
+    "disease_name": "Atherosclerosis",
+    "description": "Medical condition: atherosclerosis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to atherosclerosis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for atherosclerosis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D026",
+    "disease_name": "Systemic Lupus Erythematosus",
+    "description": "Medical condition: systemic lupus erythematosus",
+    "category": "Rheumatological Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to systemic lupus erythematosus"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for systemic lupus erythematosus",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D027",
+    "disease_name": "Schizophrenia",
+    "description": "Medical condition: schizophrenia",
+    "category": "Psychiatric Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to schizophrenia"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for schizophrenia",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D028",
+    "disease_name": "Sinusitis",
+    "description": "Medical condition: sinusitis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to sinusitis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for sinusitis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D029",
+    "disease_name": "Iron Deficiency Anemia",
+    "description": "Medical condition: iron deficiency anemia",
+    "category": "Hematological Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to iron deficiency anemia"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Hemoglobin",
+        "reference_range": {
+          "test_name": "Hemoglobin",
+          "normal_range_male": "13.8-17.2",
+          "normal_range_female": "12.1-15.1",
+          "unit": "g/dL",
+          "abnormal_low_indication": [
+            "iron deficiency anemia",
+            "vitamin B12 deficiency",
+            "chronic disease",
+            "blood loss",
+            "thalassemia"
+          ],
+          "abnormal_high_indication": [
+            "polycythemia vera",
+            "COPD",
+            "heart disease",
+            "dehydration",
+            "high altitude living"
+          ]
+        }
+      },
+      {
+        "test_name": "Hematocrit",
+        "reference_range": {
+          "test_name": "Hematocrit",
+          "normal_range_male": "40.7-50.3",
+          "normal_range_female": "36.1-44.3",
+          "unit": "%",
+          "abnormal_low_indication": [
+            "anemia",
+            "blood loss",
+            "malnutrition",
+            "leukemia",
+            "overhydration"
+          ],
+          "abnormal_high_indication": [
+            "dehydration",
+            "polycythemia",
+            "lung disease"
+          ]
+        }
+      },
+      {
+        "test_name": "RBC",
+        "reference_range": {}
+      },
+      {
+        "test_name": "MCV",
+        "reference_range": {}
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D030",
+    "disease_name": "Crohns Disease",
+    "description": "Medical condition: crohns disease",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to crohns disease"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for crohns disease",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D031",
+    "disease_name": "Parkinsons Disease",
+    "description": "Medical condition: parkinsons disease",
+    "category": "Neurological Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to parkinsons disease"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for parkinsons disease",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D032",
+    "disease_name": "Lymphoma",
+    "description": "Medical condition: lymphoma",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to lymphoma"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for lymphoma",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D033",
+    "disease_name": "Rheumatoid Arthritis",
+    "description": "Medical condition: rheumatoid arthritis",
+    "category": "Rheumatological Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to rheumatoid arthritis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for rheumatoid arthritis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D034",
+    "disease_name": "Candidiasis",
+    "description": "Medical condition: candidiasis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to candidiasis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for candidiasis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D035",
+    "disease_name": "Endometriosis",
+    "description": "Medical condition: endometriosis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to endometriosis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for endometriosis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D036",
+    "disease_name": "Asthma",
+    "description": "Medical condition: asthma",
+    "category": "Respiratory Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to asthma"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for asthma",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "triggers_to_avoid": [
+        "smoke",
+        "air pollution",
+        "dust mites",
+        "pet dander",
+        "pollen",
+        "mold",
+        "strong odors",
+        "cold air"
+      ],
+      "lifestyle": {
+        "environment": "keep home clean, use air purifiers",
+        "exercise": "regular exercise with warm-up",
+        "immunizations": "get flu and pneumonia vaccines"
+      },
+      "precautions": [
+        "always carry rescue inhaler",
+        "use spacer with inhaler",
+        "rinse mouth after corticosteroid inhaler use",
+        "have asthma action plan"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "severe difficulty breathing",
+      "blue lips",
+      "inability to speak"
+    ]
+  },
+  {
+    "disease_id": "D037",
+    "disease_name": "Herpes Simplex",
+    "description": "Medical condition: herpes simplex",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to herpes simplex"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for herpes simplex",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D038",
+    "disease_name": "Influenza",
+    "description": "Medical condition: influenza",
+    "category": "Infectious Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to influenza"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for influenza",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D039",
+    "disease_name": "Thrombocytopenia",
+    "description": "Medical condition: thrombocytopenia",
+    "category": "Hematological Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to thrombocytopenia"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for thrombocytopenia",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D040",
+    "disease_name": "Pneumonia",
+    "description": "Medical condition: pneumonia",
+    "category": "Infectious Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to pneumonia"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for pneumonia",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D041",
+    "disease_name": "Alzheimers Disease",
+    "description": "Medical condition: alzheimers disease",
+    "category": "Neurological Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to alzheimers disease"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for alzheimers disease",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D042",
+    "disease_name": "Panic Disorder",
+    "description": "Medical condition: panic disorder",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to panic disorder"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for panic disorder",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D043",
+    "disease_name": "Pulmonary Embolism",
+    "description": "Medical condition: pulmonary embolism",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to pulmonary embolism"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for pulmonary embolism",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D044",
+    "disease_name": "Urinary Tract Infection",
+    "description": "Medical condition: urinary tract infection",
+    "category": "Infectious Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to urinary tract infection"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "WBC",
+        "reference_range": {}
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "high fever >103°F",
+      "severe pain",
+      "confusion",
+      "difficulty breathing"
+    ]
+  },
+  {
+    "disease_id": "D045",
+    "disease_name": "Multiple Sclerosis",
+    "description": "Medical condition: multiple sclerosis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to multiple sclerosis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for multiple sclerosis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D046",
+    "disease_name": "Angina",
+    "description": "Medical condition: angina",
+    "category": "Cardiovascular Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to angina"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for angina",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D047",
+    "disease_name": "Leukemia",
+    "description": "Medical condition: leukemia",
+    "category": "Hematological Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to leukemia"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for leukemia",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D048",
+    "disease_name": "Bipolar Disorder",
+    "description": "Medical condition: bipolar disorder",
+    "category": "Psychiatric Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to bipolar disorder"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for bipolar disorder",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D049",
+    "disease_name": "Hepatitis B",
+    "description": "Medical condition: hepatitis b",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to hepatitis b"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for hepatitis b",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D050",
+    "disease_name": "Emphysema",
+    "description": "Medical condition: emphysema",
+    "category": "Respiratory Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to emphysema"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for emphysema",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D051",
+    "disease_name": "Gastroesophageal Reflux Disease",
+    "description": "Medical condition: gastroesophageal reflux disease",
+    "category": "Gastrointestinal Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to gastroesophageal reflux disease"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for gastroesophageal reflux disease",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "treatment_protocol": {
+      "initial_therapy": {
+        "PPI": [
+          "omeprazole 20mg daily before breakfast for 8 weeks",
+          "pantoprazole 40mg daily",
+          "esomeprazole 20mg daily"
+        ],
+        "H2_blocker_alternative": "famotidine 20mg twice daily"
+      },
+      "refractory": {
+        "increase_to": "omeprazole 40mg daily or twice daily",
+        "add": "baclofen or metoclopramide if needed"
+      },
+      "maintenance": {
+        "step_down": "lowest effective dose after 8-12 weeks",
+        "on_demand": "consider for mild symptoms"
+      },
+      "lifestyle_critical": "elevate head of bed, avoid food 2-3 hours before bed, dietary modifications"
+    }
+  },
+  {
+    "disease_id": "D052",
+    "disease_name": "Acne Vulgaris",
+    "description": "Medical condition: acne vulgaris",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to acne vulgaris"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for acne vulgaris",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D053",
+    "disease_name": "Gastroenteritis",
+    "description": "Medical condition: gastroenteritis",
+    "category": "Gastrointestinal Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to gastroenteritis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for gastroenteritis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D054",
+    "disease_name": "Pneumothorax",
+    "description": "Medical condition: pneumothorax",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to pneumothorax"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for pneumothorax",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D055",
+    "disease_name": "Tuberculosis",
+    "description": "Medical condition: tuberculosis",
+    "category": "Infectious Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to tuberculosis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for tuberculosis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D056",
+    "disease_name": "Generalized Anxiety Disorder",
+    "description": "Medical condition: generalized anxiety disorder",
+    "category": "Psychiatric Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to generalized anxiety disorder"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for generalized anxiety disorder",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D057",
+    "disease_name": "Irritable Bowel Syndrome",
+    "description": "Medical condition: irritable bowel syndrome",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to irritable bowel syndrome"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for irritable bowel syndrome",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D058",
+    "disease_name": "Acute Kidney Injury",
+    "description": "Medical condition: acute kidney injury",
+    "category": "Renal Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to acute kidney injury"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Creatinine",
+        "reference_range": {
+          "test_name": "Creatinine",
+          "normal_range_male": "0.7-1.3",
+          "normal_range_female": "0.6-1.1",
+          "unit": "mg/dL",
+          "abnormal_high_indication": [
+            "chronic kidney disease",
+            "acute kidney injury",
+            "dehydration",
+            "muscle disorders"
+          ]
+        }
+      },
+      {
+        "test_name": "BUN",
+        "reference_range": {}
+      },
+      {
+        "test_name": "eGFR",
+        "reference_range": {}
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D059",
+    "disease_name": "Polycystic Ovary Syndrome",
+    "description": "Medical condition: polycystic ovary syndrome",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to polycystic ovary syndrome"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for polycystic ovary syndrome",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D060",
+    "disease_name": "Hyperlipidemia",
+    "description": "Medical condition: hyperlipidemia",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to hyperlipidemia"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for hyperlipidemia",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "lipid_panel": "4-12 weeks after starting statin, then annually",
+      "liver_function": "baseline, then as clinically indicated",
+      "CK": "only if symptoms of myopathy"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D061",
+    "disease_name": "Urticaria",
+    "description": "Medical condition: urticaria",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to urticaria"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for urticaria",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D062",
+    "disease_name": "Hypertension",
+    "description": "Medical condition: hypertension",
+    "category": "Cardiovascular Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to hypertension"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for hypertension",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "foods_to_eat": [
+          "low sodium foods",
+          "fruits",
+          "vegetables",
+          "whole grains",
+          "lean protein",
+          "low-fat dairy"
+        ],
+        "foods_to_avoid": [
+          "high sodium foods",
+          "processed foods",
+          "fast food",
+          "pickles",
+          "canned soups",
+          "excessive salt"
+        ],
+        "fluid_intake": "adequate hydration",
+        "special_diet": "DASH diet recommended"
+      },
+      "lifestyle": {
+        "exercise": "30 minutes moderate activity 5 days/week",
+        "weight_management": "maintain healthy BMI",
+        "stress_management": "meditation, yoga, adequate sleep",
+        "habits_to_avoid": [
+          "smoking",
+          "excessive alcohol"
+        ],
+        "monitoring": "check blood pressure regularly"
+      },
+      "precautions": [
+        "avoid sudden position changes (prevent dizziness)",
+        "limit caffeine intake",
+        "monitor for side effects of medications"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "blood_pressure": "weekly until controlled, then monthly",
+      "kidney_function": "annually or if on ACE/ARB",
+      "potassium": "after starting ACE/ARB/diuretic",
+      "lipid_panel": "annually"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "treatment_protocol": {
+      "stage_1": {
+        "first_line_options": [
+          "lisinopril 10mg daily (ACE inhibitor)",
+          "amlodipine 5mg daily (CCB)",
+          "hydrochlorothiazide 12.5-25mg daily (thiazide diuretic)",
+          "losartan 50mg daily (ARB)"
+        ],
+        "lifestyle": "trial lifestyle modifications for 3-6 months if BP 130-139/80-89"
+      },
+      "stage_2": {
+        "start_combination": [
+          "lisinopril 10mg + amlodipine 5mg daily",
+          "losartan 50mg + hydrochlorothiazide 12.5mg daily"
+        ]
+      },
+      "resistant": {
+        "add": "spironolactone 25mg daily as fourth agent"
+      },
+      "monitoring": "check BP weekly until controlled, then monthly",
+      "goal": "<130/80 mmHg for most patients"
+    }
+  },
+  {
+    "disease_id": "D063",
+    "disease_name": "Hepatitis",
+    "description": "Medical condition: hepatitis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to hepatitis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for hepatitis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D064",
+    "disease_name": "Migraine",
+    "description": "Medical condition: migraine",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to migraine"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for migraine",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D065",
+    "disease_name": "Bronchitis",
+    "description": "Medical condition: bronchitis",
+    "category": "Respiratory Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to bronchitis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for bronchitis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D066",
+    "disease_name": "Cellulitis",
+    "description": "Medical condition: cellulitis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to cellulitis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for cellulitis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D067",
+    "disease_name": "Depression",
+    "description": "Medical condition: depression",
+    "category": "Psychiatric Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to depression"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for depression",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "lifestyle": {
+        "exercise": "30 minutes most days, proven to help mood",
+        "sleep_hygiene": "regular sleep schedule, 7-9 hours",
+        "social_connection": "maintain relationships, join support groups",
+        "stress_management": "meditation, mindfulness, therapy",
+        "sunlight_exposure": "morning sunlight helps circadian rhythm"
+      },
+      "diet": {
+        "foods_to_eat": [
+          "omega-3 rich foods",
+          "whole grains",
+          "fruits",
+          "vegetables"
+        ],
+        "foods_to_limit": [
+          "alcohol",
+          "caffeine",
+          "processed foods"
+        ]
+      },
+      "precautions": [
+        "avoid alcohol while on antidepressants",
+        "don't stop medications abruptly",
+        "seek help if suicidal thoughts occur"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D068",
+    "disease_name": "Sleep Apnea",
+    "description": "Medical condition: sleep apnea",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to sleep apnea"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for sleep apnea",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D069",
+    "disease_name": "Chronic Kidney Disease",
+    "description": "Medical condition: chronic kidney disease",
+    "category": "Renal Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to chronic kidney disease"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Creatinine",
+        "reference_range": {
+          "test_name": "Creatinine",
+          "normal_range_male": "0.7-1.3",
+          "normal_range_female": "0.6-1.1",
+          "unit": "mg/dL",
+          "abnormal_high_indication": [
+            "chronic kidney disease",
+            "acute kidney injury",
+            "dehydration",
+            "muscle disorders"
+          ]
+        }
+      },
+      {
+        "test_name": "BUN",
+        "reference_range": {}
+      },
+      {
+        "test_name": "eGFR",
+        "reference_range": {}
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D070",
+    "disease_name": "Sepsis",
+    "description": "Medical condition: sepsis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to sepsis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for sepsis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D071",
+    "disease_name": "Gerd",
+    "description": "Medical condition: gerd",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to gerd"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for gerd",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D072",
+    "disease_name": "Epilepsy",
+    "description": "Medical condition: epilepsy",
+    "category": "Neurological Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to epilepsy"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for epilepsy",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D073",
+    "disease_name": "Deep Vein Thrombosis",
+    "description": "Medical condition: deep vein thrombosis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to deep vein thrombosis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for deep vein thrombosis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D074",
+    "disease_name": "Bacterial Pneumonia",
+    "description": "Medical condition: bacterial pneumonia",
+    "category": "Infectious Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to bacterial pneumonia"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for bacterial pneumonia",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ],
+    "treatment_protocol": {
+      "severity_stratification": {
+        "outpatient_no_comorbidities": {
+          "first_line": "amoxicillin 1g three times daily for 7 days",
+          "alternative": "doxycycline 100mg twice daily for 7 days",
+          "macrolide_option": "azithromycin 500mg day 1, then 250mg daily for 4 days"
+        },
+        "outpatient_with_comorbidities": {
+          "first_line": "amoxicillin-clavulanate 875mg twice daily + azithromycin 500mg daily for 7 days",
+          "alternative": "levofloxacin 750mg daily for 5 days"
+        },
+        "hospitalized": {
+          "first_line": "ceftriaxone 1-2g IV daily + azithromycin 500mg IV daily",
+          "severe": "ceftriaxone 2g IV + azithromycin 500mg IV OR piperacillin-tazobactam + levofloxacin"
+        }
+      },
+      "supportive_care": [
+        "rest",
+        "hydration",
+        "fever management with acetaminophen"
+      ],
+      "follow_up": "chest X-ray in 6 weeks if high risk"
+    }
+  },
+  {
+    "disease_id": "D075",
+    "disease_name": "Chronic Obstructive Pulmonary Disease",
+    "description": "Medical condition: chronic obstructive pulmonary disease",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to chronic obstructive pulmonary disease"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for chronic obstructive pulmonary disease",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D076",
+    "disease_name": "Sickle Cell Disease",
+    "description": "Medical condition: sickle cell disease",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to sickle cell disease"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for sickle cell disease",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D077",
+    "disease_name": "Hyperthyroidism",
+    "description": "Medical condition: hyperthyroidism",
+    "category": "Metabolic Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to hyperthyroidism"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "TSH",
+        "reference_range": {}
+      },
+      {
+        "test_name": "Free T4",
+        "reference_range": {
+          "test_name": "Free T4",
+          "normal_range": "0.8-1.8",
+          "unit": "ng/dL",
+          "abnormal_low_indication": [
+            "hypothyroidism"
+          ],
+          "abnormal_high_indication": [
+            "hyperthyroidism"
+          ]
+        }
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D078",
+    "disease_name": "Inflammatory Bowel Disease",
+    "description": "Medical condition: inflammatory bowel disease",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to inflammatory bowel disease"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for inflammatory bowel disease",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D079",
+    "disease_name": "Pcos",
+    "description": "Medical condition: pcos",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to pcos"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for pcos",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D080",
+    "disease_name": "Myocardial Infarction",
+    "description": "Medical condition: myocardial infarction",
+    "category": "Cardiovascular Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to myocardial infarction"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for myocardial infarction",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D081",
+    "disease_name": "Copd",
+    "description": "Medical condition: copd",
+    "category": "Respiratory Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to copd"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for copd",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D082",
+    "disease_name": "Celiac Disease",
+    "description": "Medical condition: celiac disease",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to celiac disease"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for celiac disease",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D083",
+    "disease_name": "Benign Prostatic Hyperplasia",
+    "description": "Medical condition: benign prostatic hyperplasia",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to benign prostatic hyperplasia"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for benign prostatic hyperplasia",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D084",
+    "disease_name": "Attention Deficit Hyperactivity Disorder",
+    "description": "Medical condition: attention deficit hyperactivity disorder",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to attention deficit hyperactivity disorder"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for attention deficit hyperactivity disorder",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D085",
+    "disease_name": "Diabetes Mellitus Type 1",
+    "description": "Medical condition: diabetes mellitus type 1",
+    "category": "Metabolic Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to diabetes mellitus type 1"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Glucose (Fasting)",
+        "reference_range": {
+          "test_name": "Glucose (Fasting)",
+          "normal_range": "70-100",
+          "prediabetes_range": "100-125",
+          "diabetes_range": ">126",
+          "unit": "mg/dL",
+          "abnormal_low_indication": [
+            "hypoglycemia",
+            "insulinoma",
+            "adrenal insufficiency",
+            "liver disease",
+            "malnutrition"
+          ],
+          "abnormal_high_indication": [
+            "diabetes mellitus",
+            "prediabetes",
+            "stress",
+            "cushing syndrome",
+            "pancreatitis"
+          ]
+        }
+      },
+      {
+        "test_name": "HbA1c",
+        "reference_range": {}
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "HbA1c": "every 3 months if not at goal, every 6 months if stable",
+      "fasting_glucose": "as needed for adjustments",
+      "lipid_panel": "annually",
+      "kidney_function": "annually",
+      "eye_exam": "annually",
+      "foot_exam": "at each visit"
+    },
+    "when_to_see_doctor_urgently": [
+      "severe hypoglycemia",
+      "diabetic ketoacidosis symptoms"
+    ]
+  },
+  {
+    "disease_id": "D086",
+    "disease_name": "Coronary Artery Disease",
+    "description": "Medical condition: coronary artery disease",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to coronary artery disease"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for coronary artery disease",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D087",
+    "disease_name": "Ulcerative Colitis",
+    "description": "Medical condition: ulcerative colitis",
+    "category": "Gastrointestinal Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to ulcerative colitis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for ulcerative colitis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D088",
+    "disease_name": "Hypothyroidism",
+    "description": "Medical condition: hypothyroidism",
+    "category": "Metabolic Disorder",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to hypothyroidism"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "TSH",
+        "reference_range": {}
+      },
+      {
+        "test_name": "Free T4",
+        "reference_range": {
+          "test_name": "Free T4",
+          "normal_range": "0.8-1.8",
+          "unit": "ng/dL",
+          "abnormal_low_indication": [
+            "hypothyroidism"
+          ],
+          "abnormal_high_indication": [
+            "hyperthyroidism"
+          ]
+        }
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D089",
+    "disease_name": "Peptic Ulcer Disease",
+    "description": "Medical condition: peptic ulcer disease",
+    "category": "Gastrointestinal Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to peptic ulcer disease"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for peptic ulcer disease",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D090",
+    "disease_name": "Heart Failure",
+    "description": "Medical condition: heart failure",
+    "category": "Cardiovascular Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to heart failure"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for heart failure",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "chest pain",
+      "severe shortness of breath",
+      "loss of consciousness"
+    ]
+  },
+  {
+    "disease_id": "D091",
+    "disease_name": "Kidney Stones",
+    "description": "Medical condition: kidney stones",
+    "category": "Renal Disease",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to kidney stones"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Creatinine",
+        "reference_range": {
+          "test_name": "Creatinine",
+          "normal_range_male": "0.7-1.3",
+          "normal_range_female": "0.6-1.1",
+          "unit": "mg/dL",
+          "abnormal_high_indication": [
+            "chronic kidney disease",
+            "acute kidney injury",
+            "dehydration",
+            "muscle disorders"
+          ]
+        }
+      },
+      {
+        "test_name": "BUN",
+        "reference_range": {}
+      },
+      {
+        "test_name": "eGFR",
+        "reference_range": {}
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D092",
+    "disease_name": "Osteoporosis",
+    "description": "Medical condition: osteoporosis",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to osteoporosis"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for osteoporosis",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  },
+  {
+    "disease_id": "D093",
+    "disease_name": "Dementia",
+    "description": "Medical condition: dementia",
+    "category": "General Medical Condition",
+    "symptoms": [
+      {
+        "name": "Variable symptoms",
+        "importance": "Medium",
+        "details": "Specific to dementia"
+      }
+    ],
+    "diagnostic_tests": [
+      {
+        "test_name": "Clinical evaluation and appropriate tests",
+        "diagnostic_finding": "As indicated for dementia",
+        "necessity": "High"
+      }
+    ],
+    "risk_factors": [
+      "age",
+      "family history",
+      "lifestyle factors"
+    ],
+    "complications": [
+      "progression of disease",
+      "organ damage"
+    ],
+    "dietary_lifestyle_advice": {
+      "diet": {
+        "general": "maintain balanced diet"
+      },
+      "lifestyle": {
+        "general": "regular exercise, adequate sleep"
+      },
+      "precautions": [
+        "follow medical advice"
+      ]
+    },
+    "test_monitoring_schedule": {
+      "follow_up": "as directed by physician"
+    },
+    "when_to_see_doctor_urgently": [
+      "seek immediate medical attention if condition worsens"
+    ]
+  }
+]

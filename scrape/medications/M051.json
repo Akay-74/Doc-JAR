@@ -1,0 +1,40 @@
+{
+  "drug_id": "M051",
+  "generic_name": "ATENOLOL",
+  "brand_names": [
+    "Atenolol"
+  ],
+  "drug_class": "beta-Adrenergic Blocker [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Dyspnea",
+    "Nausea",
+    "Dizziness",
+    "Tachycardia",
+    "Headache",
+    "Fatigue",
+    "Bradycardia",
+    "Rash",
+    "Dry mouth",
+    "Hypotension"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "category_D: Avoid unless benefits outweigh risks",
+  "special_populations": {
+    "pregnancy": "category_D: Avoid unless benefits outweigh risks",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

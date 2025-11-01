@@ -1,0 +1,49 @@
+{
+  "drug_id": "M082",
+  "generic_name": "ATORVASTATIN CALCIUM",
+  "brand_names": [
+    "Atorvastatin calcium"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": {
+    "adult_dose": "10-80mg",
+    "pediatric_dose": null,
+    "frequency": "once daily",
+    "duration": "chronic therapy",
+    "timing": "evening",
+    "max_daily_dose": null
+  },
+  "adverse_effects": [
+    "Insomnia",
+    "Nausea",
+    "Dizziness",
+    "Fatigue",
+    "Rash",
+    "Edema",
+    "Diarrhea"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [
+      {
+        "disease_id": "TBD_LIVER",
+        "adverse_effect": "May cause hepatotoxicity"
+      }
+    ],
+    "other_conditions": []
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "category_X: Contraindicated in pregnancy",
+  "special_populations": {
+    "pregnancy": "category_X: Contraindicated in pregnancy",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

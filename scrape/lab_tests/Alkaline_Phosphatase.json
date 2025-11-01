@@ -1,0 +1,10 @@
+{
+  "test_name": "Alkaline Phosphatase",
+  "normal_range": "44-147",
+  "unit": "U/L",
+  "abnormal_high_indication": [
+    "liver disease",
+    "bone disorders",
+    "bile duct obstruction"
+  ]
+}

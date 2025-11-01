@@ -1,0 +1,59 @@
+{
+  "disease_id": "D088",
+  "disease_name": "Hypothyroidism",
+  "description": "Medical condition: hypothyroidism",
+  "category": "Metabolic Disorder",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to hypothyroidism"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "TSH",
+      "reference_range": {}
+    },
+    {
+      "test_name": "Free T4",
+      "reference_range": {
+        "test_name": "Free T4",
+        "normal_range": "0.8-1.8",
+        "unit": "ng/dL",
+        "abnormal_low_indication": [
+          "hypothyroidism"
+        ],
+        "abnormal_high_indication": [
+          "hyperthyroidism"
+        ]
+      }
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "diet": {
+      "general": "maintain balanced diet"
+    },
+    "lifestyle": {
+      "general": "regular exercise, adequate sleep"
+    },
+    "precautions": [
+      "follow medical advice"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "follow_up": "as directed by physician"
+  },
+  "when_to_see_doctor_urgently": [
+    "seek immediate medical attention if condition worsens"
+  ]
+}

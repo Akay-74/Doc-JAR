@@ -1,0 +1,48 @@
+{
+  "drug_id": "M034",
+  "generic_name": "SITAGLIPTIN AND METFORMIN HYDROCHLORIDE",
+  "brand_names": [
+    "ZITUVIMET"
+  ],
+  "drug_class": "Dipeptidyl Peptidase 4 Inhibitor [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Nausea",
+    "Headache",
+    "Constipation",
+    "Vomiting",
+    "Rash",
+    "Edema",
+    "Abdominal pain",
+    "Diarrhea"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [
+      {
+        "disease_id": "TBD_KIDNEY",
+        "adverse_effect": "May worsen kidney function"
+      }
+    ],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "diuretic",
+      "effect": "May alter electrolyte balance"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "test_name": "Potassium",
+  "normal_range": "3.5-5.0",
+  "unit": "mEq/L",
+  "abnormal_low_indication": [
+    "hypokalemia",
+    "diarrhea",
+    "vomiting",
+    "diuretic use"
+  ],
+  "abnormal_high_indication": [
+    "hyperkalemia",
+    "kidney disease",
+    "medication side effect",
+    "adrenal insufficiency"
+  ]
+}

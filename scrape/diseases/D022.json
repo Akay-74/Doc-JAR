@@ -1,0 +1,98 @@
+{
+  "disease_id": "D022",
+  "disease_name": "Diabetes Mellitus Type 2",
+  "description": "Medical condition: diabetes mellitus type 2",
+  "category": "Metabolic Disorder",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to diabetes mellitus type 2"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "Glucose (Fasting)",
+      "reference_range": {
+        "test_name": "Glucose (Fasting)",
+        "normal_range": "70-100",
+        "prediabetes_range": "100-125",
+        "diabetes_range": ">126",
+        "unit": "mg/dL",
+        "abnormal_low_indication": [
+          "hypoglycemia",
+          "insulinoma",
+          "adrenal insufficiency",
+          "liver disease",
+          "malnutrition"
+        ],
+        "abnormal_high_indication": [
+          "diabetes mellitus",
+          "prediabetes",
+          "stress",
+          "cushing syndrome",
+          "pancreatitis"
+        ]
+      }
+    },
+    {
+      "test_name": "HbA1c",
+      "reference_range": {}
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "diet": {
+      "general": "maintain balanced diet"
+    },
+    "lifestyle": {
+      "general": "regular exercise, adequate sleep"
+    },
+    "precautions": [
+      "follow medical advice"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "HbA1c": "every 3 months if not at goal, every 6 months if stable",
+    "fasting_glucose": "as needed for adjustments",
+    "lipid_panel": "annually",
+    "kidney_function": "annually",
+    "eye_exam": "annually",
+    "foot_exam": "at each visit"
+  },
+  "when_to_see_doctor_urgently": [
+    "severe hypoglycemia",
+    "diabetic ketoacidosis symptoms"
+  ],
+  "treatment_protocol": {
+    "initial_therapy": {
+      "first_line": "metformin 500mg twice daily with meals, titrate to 1000mg twice daily over 2-4 weeks",
+      "if_metformin_not_tolerated": "consider extended-release metformin or alternative"
+    },
+    "HbA1c_not_at_goal": {
+      "add_second_agent": [
+        "empagliflozin 10-25mg daily (SGLT2i - if cardiovascular/renal disease)",
+        "liraglutide 0.6mg daily, titrate to 1.2-1.8mg (GLP-1 RA - if obesity/cardiovascular disease)",
+        "glipizide 5mg before breakfast (sulfonylurea - if cost issue)",
+        "sitagliptin 100mg daily (DPP-4i)"
+      ]
+    },
+    "HbA1c_very_high": {
+      "consider_insulin": "insulin glargine 10 units at bedtime, titrate by 2 units every 3 days"
+    },
+    "monitoring": {
+      "HbA1c": "every 3 months until at goal, then every 6 months",
+      "kidney_function": "annually",
+      "foot_exam": "at each visit"
+    },
+    "goal": "HbA1c <7% for most, individualize based on patient factors"
+  }
+}

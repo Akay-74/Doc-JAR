@@ -1,0 +1,56 @@
+{
+  "drug_id": "M032",
+  "generic_name": "VALPROIC ACID",
+  "brand_names": [
+    "VALPROIC ACID"
+  ],
+  "drug_class": "Anti-epileptic Agent [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Dyspnea",
+    "Nausea",
+    "Dizziness",
+    "Weakness",
+    "Diarrhea",
+    "Tachycardia",
+    "Constipation",
+    "Cough",
+    "Rash",
+    "Edema"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [
+      {
+        "disease_id": "TBD_LIVER",
+        "adverse_effect": "May cause hepatotoxicity"
+      }
+    ],
+    "other_conditions": [
+      "Pregnancy"
+    ]
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "anticoagulant",
+      "effect": "Increased bleeding risk"
+    },
+    {
+      "drug_name_or_class": "warfarin",
+      "effect": "Significantly increased bleeding risk"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

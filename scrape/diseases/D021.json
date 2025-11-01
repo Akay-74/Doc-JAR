@@ -1,0 +1,69 @@
+{
+  "disease_id": "D021",
+  "disease_name": "Major Depressive Disorder",
+  "description": "Medical condition: major depressive disorder",
+  "category": "General Medical Condition",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to major depressive disorder"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "Clinical evaluation and appropriate tests",
+      "diagnostic_finding": "As indicated for major depressive disorder",
+      "necessity": "High"
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "diet": {
+      "general": "maintain balanced diet"
+    },
+    "lifestyle": {
+      "general": "regular exercise, adequate sleep"
+    },
+    "precautions": [
+      "follow medical advice"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "follow_up": "as directed by physician"
+  },
+  "when_to_see_doctor_urgently": [
+    "seek immediate medical attention if condition worsens"
+  ],
+  "treatment_protocol": {
+    "first_episode_mild_moderate": {
+      "first_line_SSRIs": [
+        "sertraline 50mg daily, titrate to 100-200mg",
+        "escitalopram 10mg daily, titrate to 20mg",
+        "fluoxetine 20mg daily, titrate to 40-80mg"
+      ],
+      "alternative_SNRIs": [
+        "venlafaxine XR 75mg daily, titrate to 150-225mg",
+        "duloxetine 30mg daily, titrate to 60mg"
+      ],
+      "other_options": [
+        "bupropion XL 150mg daily, titrate to 300mg (if fatigue/no anxiety)",
+        "mirtazapine 15mg at bedtime, titrate to 30-45mg (if insomnia/poor appetite)"
+      ]
+    },
+    "severe_or_psychotic": {
+      "consider": "combination with antipsychotic OR ECT"
+    },
+    "duration": "continue for at least 6-12 months after remission",
+    "monitoring": "assess every 1-2 weeks initially, then monthly",
+    "counseling": "psychotherapy recommended in addition to medication"
+  }
+}

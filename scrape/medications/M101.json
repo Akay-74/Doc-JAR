@@ -1,0 +1,37 @@
+{
+  "drug_id": "M101",
+  "generic_name": "TOBRAMYCIN",
+  "brand_names": [
+    "Tobramycin"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Nausea",
+    "Dizziness",
+    "Headache",
+    "Vomiting",
+    "Rash",
+    "Fever",
+    "Diarrhea"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

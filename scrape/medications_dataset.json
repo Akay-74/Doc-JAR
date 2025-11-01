@@ -1,0 +1,5827 @@
+[
+  {
+    "drug_id": "M001",
+    "generic_name": "ACYCLOVIR",
+    "brand_names": [
+      "Acyclovir"
+    ],
+    "drug_class": "Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Fever",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M002",
+    "generic_name": "DIPHENHYDRAMINE HCL",
+    "brand_names": [
+      "Childrens Allergy Relief"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M003",
+    "generic_name": "HYDROCODONE BITARTRATE AND ACETAMINOPHEN",
+    "brand_names": [
+      "Hydrocodone Bitartrate and Acetaminophen"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Constipation",
+      "Vomiting",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M004",
+    "generic_name": "WARFARIN SODIUM",
+    "brand_names": [
+      "Warfarin Sodium"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Vomiting",
+      "Rash",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "category_X: Contraindicated in pregnancy",
+    "special_populations": {
+      "pregnancy": "category_X: Contraindicated in pregnancy",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M005",
+    "generic_name": "ESCITALOPRAM ORAL",
+    "brand_names": [
+      "Escitalopram Oral Solution"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Diarrhea",
+      "Tachycardia",
+      "Constipation",
+      "Fatigue",
+      "Cough",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M006",
+    "generic_name": "LEVOTHYROXINE, LIOTHYRONINE",
+    "brand_names": [
+      "NP Thyroid 120"
+    ],
+    "drug_class": "l-Thyroxine [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_KIDNEY",
+          "adverse_effect": "May worsen kidney function"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M007",
+    "generic_name": "AMIODARONE HYDROCHLORIDE",
+    "brand_names": [
+      "Pacerone"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Tachycardia",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "beta blocker",
+        "effect": "May have additive effects"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M008",
+    "generic_name": "GABAPENTIN",
+    "brand_names": [
+      "Gabapentin"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Cough",
+      "Dry mouth"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M009",
+    "generic_name": "VANCOMYCIN HYDROCHLORIDE",
+    "brand_names": [
+      "Vancomycin Hydrochloride"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Rash",
+      "Hypotension",
+      "Fever"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M010",
+    "generic_name": "FLUOXETINE HYDROCHLORIDE",
+    "brand_names": [
+      "Fluoxetine"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Tachycardia",
+      "Rash",
+      "Dry mouth"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "category_C: Use with caution",
+    "special_populations": {
+      "pregnancy": "category_C: Use with caution",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M011",
+    "generic_name": "AMPICILLIN SODIUM AND SULBACTAM SODIUM",
+    "brand_names": [
+      "Ampicillin and Sulbactam"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M012",
+    "generic_name": "GENTAMICIN SULFATE",
+    "brand_names": [
+      "Gentamicin"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Hypertension",
+      "Vomiting",
+      "Rash",
+      "Hypotension",
+      "Edema",
+      "Fever"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M013",
+    "generic_name": "LEVONORGESTREL AND ETHINYL ESTRADIOL",
+    "brand_names": [
+      "Iclevia"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Rash",
+      "Edema"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M014",
+    "generic_name": "CLARITHROMYCIN",
+    "brand_names": [
+      "Clarithromycin"
+    ],
+    "drug_class": "Macrolide Antimicrobial [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Tachycardia",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Rash",
+      "Dry mouth"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_KIDNEY",
+          "adverse_effect": "May worsen kidney function"
+        },
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M015",
+    "generic_name": "VALSARTAN",
+    "brand_names": [
+      "Valsartan"
+    ],
+    "drug_class": "Angiotensin 2 Receptor Blocker [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Cough",
+      "Rash",
+      "Hypotension",
+      "Edema",
+      "Abdominal pain"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M016",
+    "generic_name": "ENALAPRIL MALEATE",
+    "brand_names": [
+      "Enalapril Maleate"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Diarrhea",
+      "Tachycardia",
+      "Constipation",
+      "Fatigue",
+      "Cough",
+      "Rash",
+      "Edema"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M017",
+    "generic_name": "CEFDINIR",
+    "brand_names": [
+      "Cefdinir"
+    ],
+    "drug_class": "Cephalosporin Antibacterial [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Rash",
+      "Dry mouth",
+      "Edema"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M018",
+    "generic_name": "PENICILLIN G BENZATHINE",
+    "brand_names": [
+      "BICILLIN L-A"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Tachycardia",
+      "Rash",
+      "Hypotension"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M019",
+    "generic_name": "APIXABAN",
+    "brand_names": [
+      "apixaban"
+    ],
+    "drug_class": "Factor Xa Inhibitor [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Hypotension",
+      "Edema",
+      "Nausea",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M020",
+    "generic_name": "OMEPRAZOLE",
+    "brand_names": [
+      "Omeprazole"
+    ],
+    "drug_class": "Proton Pump Inhibitor [EPC]",
+    "indications": [
+      "D051"
+    ],
+    "dosage_protocol": {
+      "adult_dose": "20-40mg",
+      "pediatric_dose": null,
+      "frequency": "once daily",
+      "duration": "4-8 weeks",
+      "timing": "30 minutes before breakfast",
+      "max_daily_dose": null
+    },
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M021",
+    "generic_name": "INSULIN GLARGINE",
+    "brand_names": [
+      "BASAGLAR Tempo Pen",
+      "BASAGLAR KwikPen"
+    ],
+    "drug_class": "Insulin Analog [EPC]",
+    "indications": [
+      "D022"
+    ],
+    "dosage_protocol": {
+      "adult_dose": "10 units initially, titrate",
+      "pediatric_dose": null,
+      "frequency": "once daily",
+      "duration": "chronic therapy",
+      "timing": "same time each day, subcutaneous",
+      "max_daily_dose": null
+    },
+    "adverse_effects": [
+      "Hypertension",
+      "Headache",
+      "Cough",
+      "Rash",
+      "Edema",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M022",
+    "generic_name": "ADALIMUMAB",
+    "brand_names": [
+      "Adalimumab"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Hypertension",
+      "Tachycardia",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Abdominal pain"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M023",
+    "generic_name": "CIPROFLOXACIN",
+    "brand_names": [
+      "ciprofloxacin"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": {
+      "adult_dose": "500mg",
+      "pediatric_dose": null,
+      "frequency": "twice daily",
+      "duration": "7-14 days",
+      "timing": "with plenty of water",
+      "max_daily_dose": null
+    },
+    "adverse_effects": [
+      "Edema",
+      "Nausea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M024",
+    "generic_name": "MORPHINE SULFATE",
+    "brand_names": [
+      "MORPHINE SULFATE"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Tachycardia",
+      "Bradycardia",
+      "Dry mouth",
+      "Hypotension"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M025",
+    "generic_name": "MIRTAZAPINE",
+    "brand_names": [
+      "Mirtazapine"
+    ],
+    "drug_class": "Unknown",
+    "indications": [
+      "D021"
+    ],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Cough",
+      "Bradycardia",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M026",
+    "generic_name": "LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE",
+    "brand_names": [
+      "Losartan Potassium and Hydrochlorothiazide"
+    ],
+    "drug_class": "Thiazide Diuretic [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Hypertension",
+      "Vomiting",
+      "Cough",
+      "Tachycardia",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "category_D: Avoid unless benefits outweigh risks",
+    "special_populations": {
+      "pregnancy": "category_D: Avoid unless benefits outweigh risks",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M027",
+    "generic_name": "DICLOFENAC SODIUM",
+    "brand_names": [
+      "Diclofenac Sodium"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M028",
+    "generic_name": "LORAZEPAM",
+    "brand_names": [
+      "Lorazepam"
+    ],
+    "drug_class": "Benzodiazepine [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Constipation",
+      "Hypotension"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M029",
+    "generic_name": "METRONIDAZOLE",
+    "brand_names": [
+      "Metronidazole"
+    ],
+    "drug_class": "Nitroimidazole Antimicrobial [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Rash",
+      "Fever",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M030",
+    "generic_name": "METOCLOPRAMIDE",
+    "brand_names": [
+      "Metoclopramide"
+    ],
+    "drug_class": "Unknown",
+    "indications": [
+      "D051"
+    ],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Tachycardia",
+      "Bradycardia",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M031",
+    "generic_name": "SITAGLIPTIN AND METFORMIN HYDROCHLORIDE",
+    "brand_names": [
+      "ZITUVIMET"
+    ],
+    "drug_class": "Dipeptidyl Peptidase 4 Inhibitor [EPC]",
+    "indications": [],
+    "dosage_protocol": {
+      "adult_dose": "500-1000mg",
+      "pediatric_dose": null,
+      "frequency": "twice daily",
+      "duration": "chronic therapy",
+      "timing": "with meals",
+      "max_daily_dose": "2550mg"
+    },
+    "adverse_effects": [
+      "Nausea",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_KIDNEY",
+          "adverse_effect": "May worsen kidney function"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "category_B: Probably safe",
+    "special_populations": {
+      "pregnancy": "category_B: Probably safe",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M032",
+    "generic_name": "VALPROIC ACID",
+    "brand_names": [
+      "VALPROIC ACID"
+    ],
+    "drug_class": "Anti-epileptic Agent [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Diarrhea",
+      "Tachycardia",
+      "Constipation",
+      "Cough",
+      "Rash",
+      "Edema"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M033",
+    "generic_name": "DEXAMETHASONE SODIUM PHOSPHATE",
+    "brand_names": [
+      "Dexamethasone Sodium Phosphate"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Headache",
+      "Edema",
+      "Hypertension",
+      "Weakness"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M034",
+    "generic_name": "SITAGLIPTIN AND METFORMIN HYDROCHLORIDE",
+    "brand_names": [
+      "ZITUVIMET"
+    ],
+    "drug_class": "Dipeptidyl Peptidase 4 Inhibitor [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_KIDNEY",
+          "adverse_effect": "May worsen kidney function"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M035",
+    "generic_name": "PANTOPRAZOLE SODIUM",
+    "brand_names": [
+      "Pantoprazole Sodium"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Rash",
+      "Dry mouth",
+      "Edema"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M036",
+    "generic_name": "ACETAMINOPHEN",
+    "brand_names": [
+      "Pain Reliever Extra Strength"
+    ],
+    "drug_class": "Unknown",
+    "indications": [
+      "D074"
+    ],
+    "dosage_protocol": {
+      "adult_dose": "325-650mg",
+      "pediatric_dose": "10-15mg/kg",
+      "frequency": "every 4-6 hours as needed",
+      "duration": "short-term use",
+      "timing": "with or without food",
+      "max_daily_dose": "4000mg for adults"
+    },
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "category_B: Probably safe",
+    "special_populations": {
+      "pregnancy": "category_B: Probably safe",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M037",
+    "generic_name": "QUETIAPINE",
+    "brand_names": [
+      "Quetiapine"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Cough",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M038",
+    "generic_name": "DOXYCYCLINE",
+    "brand_names": [
+      "doxycycline"
+    ],
+    "drug_class": "Unknown",
+    "indications": [
+      "D074"
+    ],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Hypertension",
+      "Nausea",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M039",
+    "generic_name": "SERTRALINE HYDROCHLORIDE",
+    "brand_names": [
+      "Sertraline Hydrochloride"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": {
+      "adult_dose": "50-200mg",
+      "pediatric_dose": null,
+      "frequency": "once daily",
+      "duration": "minimum 6 months",
+      "timing": "morning or evening",
+      "max_daily_dose": null
+    },
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Diarrhea",
+      "Tachycardia",
+      "Constipation",
+      "Fatigue",
+      "Cough",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "category_C: Use with caution",
+    "special_populations": {
+      "pregnancy": "category_C: Use with caution",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M040",
+    "generic_name": "FUROSEMIDE",
+    "brand_names": [
+      "Furosemide"
+    ],
+    "drug_class": "Loop Diuretic [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Rash",
+      "Hypotension",
+      "Fever",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M041",
+    "generic_name": "TIGECYCLINE",
+    "brand_names": [
+      "Tigecycline"
+    ],
+    "drug_class": "Tetracycline-class Antibacterial [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M042",
+    "generic_name": "CEFAZOLIN",
+    "brand_names": [
+      "Cefazolin"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Vomiting",
+      "Rash",
+      "Fever",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M043",
+    "generic_name": "ALPRAZOLAM",
+    "brand_names": [
+      "Alprazolam"
+    ],
+    "drug_class": "Benzodiazepine [EPC]",
+    "indications": [],
+    "dosage_protocol": {
+      "adult_dose": "0.25-0.5mg",
+      "pediatric_dose": null,
+      "frequency": "2-3 times daily as needed",
+      "duration": "short-term use only",
+      "timing": "as needed",
+      "max_daily_dose": "4mg"
+    },
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Tachycardia",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M044",
+    "generic_name": "LEVOFLOXACIN",
+    "brand_names": [
+      "Levofloxacin"
+    ],
+    "drug_class": "Fluoroquinolone Antibacterial [EPC]",
+    "indications": [
+      "D074"
+    ],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Tachycardia",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Rash",
+      "Edema"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M045",
+    "generic_name": "INFLIXIMAB-DYYB",
+    "brand_names": [
+      "INFLECTRA"
+    ],
+    "drug_class": "Tumor Necrosis Factor Blocker [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Constipation",
+      "Cough",
+      "Bradycardia",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M046",
+    "generic_name": "VENLAFAXINE",
+    "brand_names": [
+      "Venlafaxine"
+    ],
+    "drug_class": "Unknown",
+    "indications": [
+      "D021"
+    ],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Cough",
+      "Tachycardia"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M047",
+    "generic_name": "RIVAROXABAN",
+    "brand_names": [
+      "Xarelto",
+      "XARELTO"
+    ],
+    "drug_class": "Factor Xa Inhibitor [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Dizziness",
+      "Fatigue",
+      "Vomiting",
+      "Cough",
+      "Rash",
+      "Edema",
+      "Abdominal pain"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M048",
+    "generic_name": "RIFAMPIN",
+    "brand_names": [
+      "Rifadin IV"
+    ],
+    "drug_class": "Rifamycin Antibacterial [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Fever",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M049",
+    "generic_name": "FLUTICASONE PROPIONATE NASAL",
+    "brand_names": [
+      "Fluticasone Propionate"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": {
+      "adult_dose": "88-440mcg",
+      "pediatric_dose": "44-176mcg",
+      "frequency": "twice daily",
+      "duration": "chronic therapy",
+      "timing": "inhaler, rinse mouth after",
+      "max_daily_dose": null
+    },
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M050",
+    "generic_name": "OLANZAPINE",
+    "brand_names": [
+      "Olanzapine"
+    ],
+    "drug_class": "Atypical Antipsychotic [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Cough"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M051",
+    "generic_name": "ATENOLOL",
+    "brand_names": [
+      "Atenolol"
+    ],
+    "drug_class": "beta-Adrenergic Blocker [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Tachycardia",
+      "Headache",
+      "Fatigue",
+      "Bradycardia",
+      "Rash",
+      "Dry mouth",
+      "Hypotension"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "category_D: Avoid unless benefits outweigh risks",
+    "special_populations": {
+      "pregnancy": "category_D: Avoid unless benefits outweigh risks",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M052",
+    "generic_name": "ONDANSETRON HYDROCHLORIDE",
+    "brand_names": [
+      "ondansetron hydrochloride"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": {
+      "adult_dose": "4-8mg",
+      "pediatric_dose": "0.15mg/kg",
+      "frequency": "every 8 hours as needed",
+      "duration": "as needed",
+      "timing": "30 minutes before meals",
+      "max_daily_dose": null
+    },
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Tachycardia",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Bradycardia",
+      "Rash",
+      "Hypotension"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M053",
+    "generic_name": "CLOPIDOGREL BISULFATE",
+    "brand_names": [
+      "Clopidogrel"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Headache",
+      "Rash",
+      "Hypotension",
+      "Edema",
+      "Fever",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M054",
+    "generic_name": "ETHAMBUTOL HYDROCHLORIDE",
+    "brand_names": [
+      "ETHAMBUTOL HYDROCHLORIDE"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Fever",
+      "Abdominal pain"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M055",
+    "generic_name": "MEROPENEM",
+    "brand_names": [
+      "MEROPENEM"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Cough",
+      "Tachycardia"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M056",
+    "generic_name": "AMLODIPINE BESYLATE",
+    "brand_names": [
+      "Amlodipine Besylate"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": {
+      "adult_dose": "5-10mg",
+      "pediatric_dose": null,
+      "frequency": "once daily",
+      "duration": "chronic therapy",
+      "timing": "same time each day",
+      "max_daily_dose": null
+    },
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Tachycardia",
+      "Constipation",
+      "Fatigue",
+      "Vomiting",
+      "Bradycardia",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M057",
+    "generic_name": "ITRACONAZOLE",
+    "brand_names": [
+      "ITRACONAZOLE"
+    ],
+    "drug_class": "Azole Antifungal [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Cough"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_KIDNEY",
+          "adverse_effect": "May worsen kidney function"
+        },
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      },
+      {
+        "drug_name_or_class": "beta blocker",
+        "effect": "May have additive effects"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M058",
+    "generic_name": "LOPERAMIDE HYDROCHLORIDE",
+    "brand_names": [
+      "Anti-Diarrheal"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M059",
+    "generic_name": "FAMOTIDINE",
+    "brand_names": [
+      "Famotidine"
+    ],
+    "drug_class": "Histamine-2 Receptor Antagonist [EPC]",
+    "indications": [
+      "D051"
+    ],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Rash",
+      "Dry mouth",
+      "Edema"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M060",
+    "generic_name": "CLONAZEPAM",
+    "brand_names": [
+      "Clonazepam"
+    ],
+    "drug_class": "Benzodiazepine [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Constipation",
+      "Cough",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M061",
+    "generic_name": "ROSUVASTATIN CALCIUM",
+    "brand_names": [
+      "Rosuvastatin Calcium"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Constipation",
+      "Rash",
+      "Edema",
+      "Abdominal pain"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M062",
+    "generic_name": "BUDESONIDE",
+    "brand_names": [
+      "Budesonide"
+    ],
+    "drug_class": "Corticosteroid [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Constipation",
+      "Rash",
+      "Edema",
+      "Abdominal pain"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M063",
+    "generic_name": "CEFTRIAXONE SODIUM",
+    "brand_names": [
+      "Ceftriaxone Sodium"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Fever",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_KIDNEY",
+          "adverse_effect": "May worsen kidney function"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M064",
+    "generic_name": "MESALAMINE",
+    "brand_names": [
+      "Mesalamine"
+    ],
+    "drug_class": "Aminosalicylate [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Cough",
+      "Rash",
+      "Dry mouth"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M065",
+    "generic_name": "ISONIAZID",
+    "brand_names": [
+      "Isoniazid"
+    ],
+    "drug_class": "Antimycobacterial [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Weakness",
+      "Fatigue",
+      "Vomiting",
+      "Fever"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M066",
+    "generic_name": "ERYTHROMYCIN",
+    "brand_names": [
+      "erythromycin"
+    ],
+    "drug_class": "Macrolide [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M067",
+    "generic_name": "ALENDRONATE SODIUM",
+    "brand_names": [
+      "Binosto"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Fever",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M068",
+    "generic_name": "MINOCYCLINE HYDROCHLORIDE",
+    "brand_names": [
+      "Minocycline hydrochloride"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Vomiting",
+      "Cough",
+      "Rash",
+      "Edema",
+      "Fever"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M069",
+    "generic_name": "GLIPIZIDE",
+    "brand_names": [
+      "Glipizide"
+    ],
+    "drug_class": "Sulfonylurea [EPC]",
+    "indications": [
+      "D022"
+    ],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Constipation",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M070",
+    "generic_name": "DILTIAZEM HYDROCHLORIDE",
+    "brand_names": [
+      "diltiazem hydrochloride"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Hypertension",
+      "Constipation",
+      "Vomiting",
+      "Rash",
+      "Dry mouth",
+      "Edema",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M071",
+    "generic_name": "PIOGLITAZONE HYDROCHLORIDE",
+    "brand_names": [
+      "PIOGLITAZONE HYDROCHLORIDE"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Hypertension",
+      "Dizziness",
+      "Headache",
+      "Edema",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M072",
+    "generic_name": "DIGOXIN",
+    "brand_names": [
+      "Digoxin"
+    ],
+    "drug_class": "Cardiac Glycoside [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Abdominal pain"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M073",
+    "generic_name": "MELOXICAM",
+    "brand_names": [
+      "Meloxicam"
+    ],
+    "drug_class": "Nonsteroidal Anti-inflammatory Drug [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Cough"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M074",
+    "generic_name": "BUPROPION HYDROCHLORIDE",
+    "brand_names": [
+      "Bupropion Hydrochloride XL"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Cough",
+      "Hypertension",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M075",
+    "generic_name": "CEFTAZIDIME",
+    "brand_names": [
+      "Ceftazidime"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Hypotension",
+      "Edema",
+      "Fever",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M076",
+    "generic_name": "MOXIFLOXACIN HYDROCHLORIDE",
+    "brand_names": [
+      "MOXIFLOXACIN HYDROCHLORIDE"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Hypertension"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M077",
+    "generic_name": "SPIRONOLACTONE",
+    "brand_names": [
+      "Spironolactone"
+    ],
+    "drug_class": "Aldosterone Antagonist [EPC]",
+    "indications": [
+      "D062"
+    ],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Hypotension",
+      "Fever",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M078",
+    "generic_name": "ALBUTEROL SULFATE",
+    "brand_names": [
+      "Albuterol Sulfate HFA"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": {
+      "adult_dose": "2 puffs",
+      "pediatric_dose": "1-2 puffs",
+      "frequency": "every 4-6 hours as needed",
+      "duration": "as needed",
+      "timing": "inhaler",
+      "max_daily_dose": null
+    },
+    "adverse_effects": [
+      "Hypertension",
+      "Dizziness",
+      "Tachycardia",
+      "Headache",
+      "Cough",
+      "Rash",
+      "Edema",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "category_C: Use with caution",
+    "special_populations": {
+      "pregnancy": "category_C: Use with caution",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M079",
+    "generic_name": "CEFUROXIME AXETIL",
+    "brand_names": [
+      "Cefuroxime axetil"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Tachycardia",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M080",
+    "generic_name": "DIAZEPAM",
+    "brand_names": [
+      "Diazepam"
+    ],
+    "drug_class": "Benzodiazepine [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Constipation",
+      "Dry mouth",
+      "Hypotension"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M081",
+    "generic_name": "LITHIUM SULPHURATUM",
+    "brand_names": [
+      "Lithium Sulphuratum"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M082",
+    "generic_name": "ATORVASTATIN CALCIUM",
+    "brand_names": [
+      "Atorvastatin calcium"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": {
+      "adult_dose": "10-80mg",
+      "pediatric_dose": null,
+      "frequency": "once daily",
+      "duration": "chronic therapy",
+      "timing": "evening",
+      "max_daily_dose": null
+    },
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Fatigue",
+      "Rash",
+      "Edema",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "category_X: Contraindicated in pregnancy",
+    "special_populations": {
+      "pregnancy": "category_X: Contraindicated in pregnancy",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M083",
+    "generic_name": "COLISTIN SULFATE, NEOMYCIN SULFATE, THONZONIUM BROMIDE AND HYDROCORTISONE ACETATE",
+    "brand_names": [
+      "Cortisporin TC"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M084",
+    "generic_name": "FEXOFENADINE HCL",
+    "brand_names": [
+      "Fexofenadine HCL"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M085",
+    "generic_name": "LISINOPRIL AND HYDROCHLOROTHIAZIDE TABLETS",
+    "brand_names": [
+      "Lisinopril and Hydrochlorothiazide"
+    ],
+    "drug_class": "Thiazide Diuretic [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Diarrhea",
+      "Tachycardia",
+      "Constipation",
+      "Fatigue",
+      "Cough",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M086",
+    "generic_name": "TESTOSTERONE",
+    "brand_names": [
+      "Testopel"
+    ],
+    "drug_class": "Androgen [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Headache",
+      "Nausea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M087",
+    "generic_name": "METHOTREXATE",
+    "brand_names": [
+      "METHOTREXATE"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Cough",
+      "Rash",
+      "Hypotension",
+      "Fever",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M088",
+    "generic_name": "IMIPENEM AND CILASTATIN SODIUM",
+    "brand_names": [
+      "Imipenem and Cilastatin"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Tachycardia",
+      "Vomiting",
+      "Rash",
+      "Hypotension",
+      "Edema"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M089",
+    "generic_name": "LINEZOLID",
+    "brand_names": [
+      "Linezolid"
+    ],
+    "drug_class": "Oxazolidinone Antibacterial [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M090",
+    "generic_name": "MONTELUKAST SODIUM",
+    "brand_names": [
+      "Montelukast Sodium"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Cough",
+      "Rash",
+      "Edema",
+      "Fever"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M091",
+    "generic_name": "NITROFURANTOIN",
+    "brand_names": [
+      "Nitrofurantoin"
+    ],
+    "drug_class": "Nitrofuran Antibacterial [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Vomiting",
+      "Cough",
+      "Rash",
+      "Edema",
+      "Fever"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_KIDNEY",
+          "adverse_effect": "May worsen kidney function"
+        },
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M092",
+    "generic_name": "LAMOTRIGINE",
+    "brand_names": [
+      "Lamotrigine"
+    ],
+    "drug_class": "Anti-epileptic Agent [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Cough"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M093",
+    "generic_name": "DULOXETINE HYDROCHLORIDE",
+    "brand_names": [
+      "Duloxetine Delayed-Release"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Cough",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M094",
+    "generic_name": "RISPERIDONE",
+    "brand_names": [
+      "RISPERIDONE"
+    ],
+    "drug_class": "Atypical Antipsychotic [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Cough"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M095",
+    "generic_name": "AMOXICILLIN",
+    "brand_names": [
+      "Amoxicillin"
+    ],
+    "drug_class": "Unknown",
+    "indications": [
+      "D074"
+    ],
+    "dosage_protocol": {
+      "adult_dose": "500mg",
+      "pediatric_dose": "25-50mg/kg/day",
+      "frequency": "3 times daily",
+      "duration": "7-10 days",
+      "timing": "with or without food",
+      "max_daily_dose": null
+    },
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M096",
+    "generic_name": "METHIMAZOLE",
+    "brand_names": [
+      "methimazole"
+    ],
+    "drug_class": "Thyroid Hormone Synthesis Inhibitor [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "beta blocker",
+        "effect": "May have additive effects"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M097",
+    "generic_name": "AZITHROMYCIN",
+    "brand_names": [
+      "Azithromycin"
+    ],
+    "drug_class": "Unknown",
+    "indications": [
+      "D074"
+    ],
+    "dosage_protocol": {
+      "adult_dose": "500mg day 1, then 250mg",
+      "pediatric_dose": "10mg/kg day 1, then 5mg/kg",
+      "frequency": "once daily",
+      "duration": "5 days",
+      "timing": "with or without food",
+      "max_daily_dose": null
+    },
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Tachycardia",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Cough",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M098",
+    "generic_name": "CETIRIZINE HYDROCHLORIDE",
+    "brand_names": [
+      "Childrens Zyrtec"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M099",
+    "generic_name": "NITROGLYCERIN",
+    "brand_names": [
+      "NITROGLYCERIN"
+    ],
+    "drug_class": "Nitrate Vasodilator [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Hypotension"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M100",
+    "generic_name": "VALACYCLOVIR HYDROCHLORIDE",
+    "brand_names": [
+      "Valacyclovir Hydrochloride"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Tachycardia",
+      "Rash",
+      "Edema"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M101",
+    "generic_name": "TOBRAMYCIN",
+    "brand_names": [
+      "Tobramycin"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Fever",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M102",
+    "generic_name": "ACETAMINOPHEN AND CODEINE PHOSPHATE",
+    "brand_names": [
+      "ACETAMINOPHEN AND CODEINE PHOSPHATE"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Rash",
+      "Dry mouth"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M103",
+    "generic_name": "PREDNISONE",
+    "brand_names": [
+      "PredniSONE"
+    ],
+    "drug_class": "Corticosteroid [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Headache",
+      "Edema",
+      "Hypertension",
+      "Weakness"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M104",
+    "generic_name": "DAPTOMYCIN",
+    "brand_names": [
+      "Daptomycin"
+    ],
+    "drug_class": "Lipopeptide Antibacterial [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Cough",
+      "Hypertension"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M105",
+    "generic_name": "HYDROXYCHLOROQUINE SULFATE",
+    "brand_names": [
+      "HYDROXYCHLOROQUINE SULFATE"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Tachycardia",
+      "Rash",
+      "Edema"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M106",
+    "generic_name": "ASPIRIN",
+    "brand_names": [
+      "Low Dose Aspirin Enteric Safety-Coated"
+    ],
+    "drug_class": "Nonsteroidal Anti-inflammatory Drug [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M107",
+    "generic_name": "ESOMEPRAZOLE MAGNESIUM",
+    "brand_names": [
+      "Acid Reducer"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M108",
+    "generic_name": "ARIPIPRAZOLE",
+    "brand_names": [
+      "Aripiprazole"
+    ],
+    "drug_class": "Atypical Antipsychotic [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Cough"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M109",
+    "generic_name": "CLINDAMYCIN PHOSPHATE",
+    "brand_names": [
+      "Clindamycin Phosphate"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M110",
+    "generic_name": "TERBINAFINE HYDROCHLORIDE",
+    "brand_names": [
+      "Terbinafine"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M111",
+    "generic_name": "NAPROXEN",
+    "brand_names": [
+      "Naproxen"
+    ],
+    "drug_class": "Nonsteroidal Anti-inflammatory Drug [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Hypertension",
+      "Tachycardia"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M112",
+    "generic_name": "DENOSUMAB-BMWO",
+    "brand_names": [
+      "Stoboclo"
+    ],
+    "drug_class": "RANK Ligand Inhibitor [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Hypertension",
+      "Dizziness",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Abdominal pain"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M113",
+    "generic_name": "METOPROLOL TARTRATE",
+    "brand_names": [
+      "Metoprolol Tartrate"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": {
+      "adult_dose": "25-100mg",
+      "pediatric_dose": null,
+      "frequency": "twice daily",
+      "duration": "chronic therapy",
+      "timing": "with food",
+      "max_daily_dose": "400mg"
+    },
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Bradycardia",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M114",
+    "generic_name": "EZETIMIBE AND SIMVASTATIN",
+    "brand_names": [
+      "Ezetimibe and Simvastatin"
+    ],
+    "drug_class": "HMG-CoA Reductase Inhibitor [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M115",
+    "generic_name": "CEFEPIME",
+    "brand_names": [
+      "Cefepime"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Fever",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M116",
+    "generic_name": "CEPHALEXIN",
+    "brand_names": [
+      "Cephalexin"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Fever",
+      "Abdominal pain",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M117",
+    "generic_name": "RAMIPRIL",
+    "brand_names": [
+      "Ramipril"
+    ],
+    "drug_class": "Angiotensin Converting Enzyme Inhibitor [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Cough"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M118",
+    "generic_name": "INSULIN LISPRO",
+    "brand_names": [
+      "ADMELOG"
+    ],
+    "drug_class": "Insulin Analog [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Tachycardia",
+      "Rash",
+      "Hypotension",
+      "Edema"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M119",
+    "generic_name": "OXYCODONE HYDROCHLORIDE",
+    "brand_names": [
+      "Oxycodone Hydrochloride"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Tachycardia",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Cough",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M120",
+    "generic_name": "FOSFOMYCIN TROMETHAMINE",
+    "brand_names": [
+      "Fosfomycin Tromethamine"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Rash",
+      "Dry mouth",
+      "Edema",
+      "Fever"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M121",
+    "generic_name": "TRAZODONE HYDROCHLORIDE",
+    "brand_names": [
+      "Trazodone Hydrochloride"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Hypertension",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M122",
+    "generic_name": "TRAMADOL HYDROCHLORIDE",
+    "brand_names": [
+      "TRAMADOL HYDROCHLORIDE"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Cough",
+      "Hypertension"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M123",
+    "generic_name": "CELECOXIB",
+    "brand_names": [
+      "CELECOXIB"
+    ],
+    "drug_class": "Nonsteroidal Anti-inflammatory Drug [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Cough"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "anticoagulant",
+        "effect": "Increased bleeding risk"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      },
+      {
+        "drug_name_or_class": "SSRI",
+        "effect": "Increased serotonin syndrome risk"
+      },
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M124",
+    "generic_name": "PYRAZINAMIDE",
+    "brand_names": [
+      "Pyrazinamide"
+    ],
+    "drug_class": "Antimycobacterial [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Vomiting",
+      "Fever",
+      "Nausea",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M125",
+    "generic_name": "FLUCONAZOLE",
+    "brand_names": [
+      "Fluconazole"
+    ],
+    "drug_class": "Azole Antifungal [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Rash",
+      "Dry mouth",
+      "Edema",
+      "Fever"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": [
+        "Pregnancy"
+      ]
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M126",
+    "generic_name": "LIRAGLUTIDE",
+    "brand_names": [
+      "Liraglutide"
+    ],
+    "drug_class": "GLP-1 Receptor Agonist [EPC]",
+    "indications": [
+      "D022"
+    ],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Dizziness",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Rash",
+      "Edema",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M127",
+    "generic_name": "LISINOPRIL AND HYDROCHLOROTHIAZIDE TABLETS",
+    "brand_names": [
+      "Lisinopril and Hydrochlorothiazide"
+    ],
+    "drug_class": "Thiazide Diuretic [EPC]",
+    "indications": [],
+    "dosage_protocol": {
+      "adult_dose": "10-40mg",
+      "pediatric_dose": null,
+      "frequency": "once daily",
+      "duration": "chronic therapy",
+      "timing": "same time each day",
+      "max_daily_dose": null
+    },
+    "adverse_effects": [
+      "Dyspnea",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Diarrhea",
+      "Tachycardia",
+      "Constipation",
+      "Fatigue",
+      "Cough",
+      "Rash"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "NSAID",
+        "effect": "May increase risk of bleeding"
+      },
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "category_D: Avoid unless benefits outweigh risks",
+    "special_populations": {
+      "pregnancy": "category_D: Avoid unless benefits outweigh risks",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M128",
+    "generic_name": "PREGABALIN",
+    "brand_names": [
+      "PREGABALIN"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Weakness",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Constipation",
+      "Hypertension"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M129",
+    "generic_name": "OSELTAMIVIR PHOSPHATE",
+    "brand_names": [
+      "Oseltamivir Phosphate"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Headache",
+      "Vomiting",
+      "Rash",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "warfarin",
+        "effect": "Significantly increased bleeding risk"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M130",
+    "generic_name": "EMPAGLIFLOZIN AND METFORMIN HYDROCHLORIDE",
+    "brand_names": [
+      "Synjardy"
+    ],
+    "drug_class": "Sodium-Glucose Cotransporter 2 Inhibitor [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Nausea",
+      "Headache",
+      "Constipation",
+      "Vomiting",
+      "Rash",
+      "Hypotension",
+      "Edema",
+      "Diarrhea"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_KIDNEY",
+          "adverse_effect": "May worsen kidney function"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [
+      {
+        "drug_name_or_class": "diuretic",
+        "effect": "May alter electrolyte balance"
+      }
+    ],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M131",
+    "generic_name": "LORATADINE",
+    "brand_names": [
+      "Signature Care Allergy Relief"
+    ],
+    "drug_class": "Unknown",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M132",
+    "generic_name": "IBUPROFEN",
+    "brand_names": [
+      "Ibuprofen Dye Free"
+    ],
+    "drug_class": "Nonsteroidal Anti-inflammatory Drug [EPC]",
+    "indications": [],
+    "dosage_protocol": {
+      "adult_dose": "200-400mg",
+      "pediatric_dose": "5-10mg/kg",
+      "frequency": "every 4-6 hours as needed",
+      "duration": "short-term use",
+      "timing": "with food",
+      "max_daily_dose": "3200mg for adults"
+    },
+    "adverse_effects": [],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [],
+      "existing_diseases": [],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  },
+  {
+    "drug_id": "M133",
+    "generic_name": "CARVEDILOL",
+    "brand_names": [
+      "Carvedilol"
+    ],
+    "drug_class": "alpha-Adrenergic Blocker [EPC]",
+    "indications": [],
+    "dosage_protocol": null,
+    "adverse_effects": [
+      "Dyspnea",
+      "Insomnia",
+      "Nausea",
+      "Dizziness",
+      "Hypertension",
+      "Headache",
+      "Fatigue",
+      "Vomiting",
+      "Cough",
+      "Tachycardia"
+    ],
+    "adverse_effect_management": [],
+    "contraindications": {
+      "allergies": [
+        "Hypersensitivity to this medication"
+      ],
+      "existing_diseases": [
+        {
+          "disease_id": "TBD_LIVER",
+          "adverse_effect": "May cause hepatotoxicity"
+        }
+      ],
+      "other_conditions": []
+    },
+    "drug_interactions": [],
+    "pregnancy_category": "Consult prescribing information",
+    "special_populations": {
+      "pregnancy": "Unknown",
+      "breastfeeding": "Unknown",
+      "pediatric": "Consult guidelines",
+      "geriatric": "May need dose adjustment",
+      "renal_impairment": "Monitor and adjust as needed",
+      "hepatic_impairment": "Use with caution"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "test_name": "PT/INR (Prothrombin Time)",
+  "normal_range": "11-13.5 seconds / INR 0.8-1.1",
+  "therapeutic_anticoagulation": "INR 2.0-3.0",
+  "unit": "seconds / ratio",
+  "abnormal_high_indication": [
+    "bleeding risk",
+    "liver disease",
+    "vitamin K deficiency",
+    "warfarin therapy"
+  ]
+}

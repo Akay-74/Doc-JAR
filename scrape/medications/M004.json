@@ -1,0 +1,46 @@
+{
+  "drug_id": "M004",
+  "generic_name": "WARFARIN SODIUM",
+  "brand_names": [
+    "Warfarin Sodium"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Nausea",
+    "Vomiting",
+    "Rash",
+    "Abdominal pain",
+    "Diarrhea"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": [
+      "Pregnancy"
+    ]
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "anticoagulant",
+      "effect": "Increased bleeding risk"
+    },
+    {
+      "drug_name_or_class": "warfarin",
+      "effect": "Significantly increased bleeding risk"
+    }
+  ],
+  "pregnancy_category": "category_X: Contraindicated in pregnancy",
+  "special_populations": {
+    "pregnancy": "category_X: Contraindicated in pregnancy",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

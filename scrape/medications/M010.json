@@ -1,0 +1,55 @@
+{
+  "drug_id": "M010",
+  "generic_name": "FLUOXETINE HYDROCHLORIDE",
+  "brand_names": [
+    "Fluoxetine"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Insomnia",
+    "Nausea",
+    "Dizziness",
+    "Hypertension",
+    "Headache",
+    "Constipation",
+    "Vomiting",
+    "Tachycardia",
+    "Rash",
+    "Dry mouth"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "NSAID",
+      "effect": "May increase risk of bleeding"
+    },
+    {
+      "drug_name_or_class": "anticoagulant",
+      "effect": "Increased bleeding risk"
+    },
+    {
+      "drug_name_or_class": "SSRI",
+      "effect": "Increased serotonin syndrome risk"
+    },
+    {
+      "drug_name_or_class": "warfarin",
+      "effect": "Significantly increased bleeding risk"
+    }
+  ],
+  "pregnancy_category": "category_C: Use with caution",
+  "special_populations": {
+    "pregnancy": "category_C: Use with caution",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

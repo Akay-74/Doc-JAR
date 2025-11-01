@@ -1,0 +1,50 @@
+{
+  "drug_id": "M078",
+  "generic_name": "ALBUTEROL SULFATE",
+  "brand_names": [
+    "Albuterol Sulfate HFA"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": {
+    "adult_dose": "2 puffs",
+    "pediatric_dose": "1-2 puffs",
+    "frequency": "every 4-6 hours as needed",
+    "duration": "as needed",
+    "timing": "inhaler",
+    "max_daily_dose": null
+  },
+  "adverse_effects": [
+    "Hypertension",
+    "Dizziness",
+    "Tachycardia",
+    "Headache",
+    "Cough",
+    "Rash",
+    "Edema",
+    "Diarrhea"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "diuretic",
+      "effect": "May alter electrolyte balance"
+    }
+  ],
+  "pregnancy_category": "category_C: Use with caution",
+  "special_populations": {
+    "pregnancy": "category_C: Use with caution",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

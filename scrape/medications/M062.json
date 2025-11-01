@@ -1,0 +1,40 @@
+{
+  "drug_id": "M062",
+  "generic_name": "BUDESONIDE",
+  "brand_names": [
+    "Budesonide"
+  ],
+  "drug_class": "Corticosteroid [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Insomnia",
+    "Nausea",
+    "Dizziness",
+    "Hypertension",
+    "Headache",
+    "Fatigue",
+    "Constipation",
+    "Rash",
+    "Edema",
+    "Abdominal pain"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

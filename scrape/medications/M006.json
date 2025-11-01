@@ -1,0 +1,39 @@
+{
+  "drug_id": "M006",
+  "generic_name": "LEVOTHYROXINE, LIOTHYRONINE",
+  "brand_names": [
+    "NP Thyroid 120"
+  ],
+  "drug_class": "l-Thyroxine [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [
+      {
+        "disease_id": "TBD_KIDNEY",
+        "adverse_effect": "May worsen kidney function"
+      }
+    ],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "anticoagulant",
+      "effect": "Increased bleeding risk"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "test_name": "Protein in Urine",
+  "normal_range": "Negative or trace",
+  "unit": "mg/dL",
+  "abnormal_high_indication": [
+    "kidney disease",
+    "diabetes",
+    "hypertension",
+    "urinary tract infection"
+  ]
+}

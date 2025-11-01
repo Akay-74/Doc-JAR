@@ -1,0 +1,51 @@
+{
+  "drug_id": "M095",
+  "generic_name": "AMOXICILLIN",
+  "brand_names": [
+    "Amoxicillin"
+  ],
+  "drug_class": "Unknown",
+  "indications": [
+    "D074"
+  ],
+  "dosage_protocol": {
+    "adult_dose": "500mg",
+    "pediatric_dose": "25-50mg/kg/day",
+    "frequency": "3 times daily",
+    "duration": "7-10 days",
+    "timing": "with or without food",
+    "max_daily_dose": null
+  },
+  "adverse_effects": [
+    "Insomnia",
+    "Nausea",
+    "Dizziness",
+    "Headache",
+    "Vomiting",
+    "Rash",
+    "Diarrhea"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "anticoagulant",
+      "effect": "Increased bleeding risk"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

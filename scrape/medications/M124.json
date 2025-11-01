@@ -1,0 +1,39 @@
+{
+  "drug_id": "M124",
+  "generic_name": "PYRAZINAMIDE",
+  "brand_names": [
+    "Pyrazinamide"
+  ],
+  "drug_class": "Antimycobacterial [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Vomiting",
+    "Fever",
+    "Nausea",
+    "Rash"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [
+      {
+        "disease_id": "TBD_LIVER",
+        "adverse_effect": "May cause hepatotoxicity"
+      }
+    ],
+    "other_conditions": []
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

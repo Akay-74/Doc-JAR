@@ -1,0 +1,64 @@
+{
+  "drug_id": "M039",
+  "generic_name": "SERTRALINE HYDROCHLORIDE",
+  "brand_names": [
+    "Sertraline Hydrochloride"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": {
+    "adult_dose": "50-200mg",
+    "pediatric_dose": null,
+    "frequency": "once daily",
+    "duration": "minimum 6 months",
+    "timing": "morning or evening",
+    "max_daily_dose": null
+  },
+  "adverse_effects": [
+    "Dyspnea",
+    "Nausea",
+    "Dizziness",
+    "Weakness",
+    "Diarrhea",
+    "Tachycardia",
+    "Constipation",
+    "Fatigue",
+    "Cough",
+    "Rash"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "NSAID",
+      "effect": "May increase risk of bleeding"
+    },
+    {
+      "drug_name_or_class": "anticoagulant",
+      "effect": "Increased bleeding risk"
+    },
+    {
+      "drug_name_or_class": "SSRI",
+      "effect": "Increased serotonin syndrome risk"
+    },
+    {
+      "drug_name_or_class": "warfarin",
+      "effect": "Significantly increased bleeding risk"
+    }
+  ],
+  "pregnancy_category": "category_C: Use with caution",
+  "special_populations": {
+    "pregnancy": "category_C: Use with caution",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

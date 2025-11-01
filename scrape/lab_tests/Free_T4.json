@@ -1,0 +1,11 @@
+{
+  "test_name": "Free T4",
+  "normal_range": "0.8-1.8",
+  "unit": "ng/dL",
+  "abnormal_low_indication": [
+    "hypothyroidism"
+  ],
+  "abnormal_high_indication": [
+    "hyperthyroidism"
+  ]
+}

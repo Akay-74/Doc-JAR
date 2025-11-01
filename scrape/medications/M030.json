@@ -1,0 +1,40 @@
+{
+  "drug_id": "M030",
+  "generic_name": "METOCLOPRAMIDE",
+  "brand_names": [
+    "Metoclopramide"
+  ],
+  "drug_class": "Unknown",
+  "indications": [
+    "D051"
+  ],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Dyspnea",
+    "Insomnia",
+    "Nausea",
+    "Dizziness",
+    "Hypertension",
+    "Headache",
+    "Fatigue",
+    "Tachycardia",
+    "Bradycardia",
+    "Rash"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

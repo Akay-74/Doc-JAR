@@ -1,0 +1,25 @@
+{
+  "test_name": "WBC (White Blood Cell Count)",
+  "normal_range": "4,500-11,000",
+  "unit": "cells/\u03bcL",
+  "abnormal_low_indication": [
+    "immunosuppression",
+    "viral infection",
+    "bone marrow disorders",
+    "autoimmune disease",
+    "HIV/AIDS"
+  ],
+  "abnormal_high_indication": [
+    "bacterial infection",
+    "leukemia",
+    "inflammation",
+    "stress",
+    "tissue damage",
+    "smoking"
+  ],
+  "related_diseases": [
+    "D001",
+    "D045",
+    "D050"
+  ]
+}

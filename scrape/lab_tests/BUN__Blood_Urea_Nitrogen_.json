@@ -1,0 +1,17 @@
+{
+  "test_name": "BUN (Blood Urea Nitrogen)",
+  "normal_range": "7-20",
+  "unit": "mg/dL",
+  "abnormal_high_indication": [
+    "kidney disease",
+    "dehydration",
+    "high protein diet",
+    "heart failure",
+    "GI bleeding"
+  ],
+  "abnormal_low_indication": [
+    "liver disease",
+    "malnutrition",
+    "overhydration"
+  ]
+}

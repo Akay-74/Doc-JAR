@@ -1,0 +1,36 @@
+{
+  "drug_id": "M036",
+  "generic_name": "ACETAMINOPHEN",
+  "brand_names": [
+    "Pain Reliever Extra Strength"
+  ],
+  "drug_class": "Unknown",
+  "indications": [
+    "D074"
+  ],
+  "dosage_protocol": {
+    "adult_dose": "325-650mg",
+    "pediatric_dose": "10-15mg/kg",
+    "frequency": "every 4-6 hours as needed",
+    "duration": "short-term use",
+    "timing": "with or without food",
+    "max_daily_dose": "4000mg for adults"
+  },
+  "adverse_effects": [],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "category_B: Probably safe",
+  "special_populations": {
+    "pregnancy": "category_B: Probably safe",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

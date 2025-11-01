@@ -1,0 +1,45 @@
+{
+  "drug_id": "M067",
+  "generic_name": "ALENDRONATE SODIUM",
+  "brand_names": [
+    "Binosto"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Nausea",
+    "Dizziness",
+    "Headache",
+    "Constipation",
+    "Vomiting",
+    "Rash",
+    "Edema",
+    "Fever",
+    "Abdominal pain",
+    "Diarrhea"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "NSAID",
+      "effect": "May increase risk of bleeding"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

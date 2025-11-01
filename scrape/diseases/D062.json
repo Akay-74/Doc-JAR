@@ -1,0 +1,97 @@
+{
+  "disease_id": "D062",
+  "disease_name": "Hypertension",
+  "description": "Medical condition: hypertension",
+  "category": "Cardiovascular Disease",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to hypertension"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "Clinical evaluation and appropriate tests",
+      "diagnostic_finding": "As indicated for hypertension",
+      "necessity": "High"
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "diet": {
+      "foods_to_eat": [
+        "low sodium foods",
+        "fruits",
+        "vegetables",
+        "whole grains",
+        "lean protein",
+        "low-fat dairy"
+      ],
+      "foods_to_avoid": [
+        "high sodium foods",
+        "processed foods",
+        "fast food",
+        "pickles",
+        "canned soups",
+        "excessive salt"
+      ],
+      "fluid_intake": "adequate hydration",
+      "special_diet": "DASH diet recommended"
+    },
+    "lifestyle": {
+      "exercise": "30 minutes moderate activity 5 days/week",
+      "weight_management": "maintain healthy BMI",
+      "stress_management": "meditation, yoga, adequate sleep",
+      "habits_to_avoid": [
+        "smoking",
+        "excessive alcohol"
+      ],
+      "monitoring": "check blood pressure regularly"
+    },
+    "precautions": [
+      "avoid sudden position changes (prevent dizziness)",
+      "limit caffeine intake",
+      "monitor for side effects of medications"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "blood_pressure": "weekly until controlled, then monthly",
+    "kidney_function": "annually or if on ACE/ARB",
+    "potassium": "after starting ACE/ARB/diuretic",
+    "lipid_panel": "annually"
+  },
+  "when_to_see_doctor_urgently": [
+    "seek immediate medical attention if condition worsens"
+  ],
+  "treatment_protocol": {
+    "stage_1": {
+      "first_line_options": [
+        "lisinopril 10mg daily (ACE inhibitor)",
+        "amlodipine 5mg daily (CCB)",
+        "hydrochlorothiazide 12.5-25mg daily (thiazide diuretic)",
+        "losartan 50mg daily (ARB)"
+      ],
+      "lifestyle": "trial lifestyle modifications for 3-6 months if BP 130-139/80-89"
+    },
+    "stage_2": {
+      "start_combination": [
+        "lisinopril 10mg + amlodipine 5mg daily",
+        "losartan 50mg + hydrochlorothiazide 12.5mg daily"
+      ]
+    },
+    "resistant": {
+      "add": "spironolactone 25mg daily as fourth agent"
+    },
+    "monitoring": "check BP weekly until controlled, then monthly",
+    "goal": "<130/80 mmHg for most patients"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "drug_id": "M122",
+  "generic_name": "TRAMADOL HYDROCHLORIDE",
+  "brand_names": [
+    "TRAMADOL HYDROCHLORIDE"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Dyspnea",
+    "Insomnia",
+    "Nausea",
+    "Dizziness",
+    "Weakness",
+    "Headache",
+    "Constipation",
+    "Vomiting",
+    "Cough",
+    "Hypertension"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "diuretic",
+      "effect": "May alter electrolyte balance"
+    },
+    {
+      "drug_name_or_class": "SSRI",
+      "effect": "Increased serotonin syndrome risk"
+    },
+    {
+      "drug_name_or_class": "warfarin",
+      "effect": "Significantly increased bleeding risk"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "test_name": "LDL Cholesterol",
+  "optimal": "<100",
+  "near_optimal": "100-129",
+  "borderline_high": "130-159",
+  "high": "160-189",
+  "very_high": "\u2265190",
+  "unit": "mg/dL",
+  "abnormal_high_indication": [
+    "atherosclerosis risk",
+    "coronary artery disease",
+    "stroke risk"
+  ]
+}

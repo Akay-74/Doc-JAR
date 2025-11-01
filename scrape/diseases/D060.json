@@ -1,0 +1,48 @@
+{
+  "disease_id": "D060",
+  "disease_name": "Hyperlipidemia",
+  "description": "Medical condition: hyperlipidemia",
+  "category": "General Medical Condition",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to hyperlipidemia"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "Clinical evaluation and appropriate tests",
+      "diagnostic_finding": "As indicated for hyperlipidemia",
+      "necessity": "High"
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "diet": {
+      "general": "maintain balanced diet"
+    },
+    "lifestyle": {
+      "general": "regular exercise, adequate sleep"
+    },
+    "precautions": [
+      "follow medical advice"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "lipid_panel": "4-12 weeks after starting statin, then annually",
+    "liver_function": "baseline, then as clinically indicated",
+    "CK": "only if symptoms of myopathy"
+  },
+  "when_to_see_doctor_urgently": [
+    "seek immediate medical attention if condition worsens"
+  ]
+}

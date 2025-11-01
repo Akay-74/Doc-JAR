@@ -1,0 +1,40 @@
+{
+  "drug_id": "M096",
+  "generic_name": "METHIMAZOLE",
+  "brand_names": [
+    "methimazole"
+  ],
+  "drug_class": "Thyroid Hormone Synthesis Inhibitor [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "anticoagulant",
+      "effect": "Increased bleeding risk"
+    },
+    {
+      "drug_name_or_class": "beta blocker",
+      "effect": "May have additive effects"
+    },
+    {
+      "drug_name_or_class": "warfarin",
+      "effect": "Significantly increased bleeding risk"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

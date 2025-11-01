@@ -1,0 +1,12 @@
+{
+  "test_name": "eGFR (Estimated Glomerular Filtration Rate)",
+  "normal_range": ">60",
+  "stage_3_ckd": "30-59",
+  "stage_4_ckd": "15-29",
+  "stage_5_ckd": "<15",
+  "unit": "mL/min/1.73m\u00b2",
+  "abnormal_low_indication": [
+    "chronic kidney disease",
+    "acute kidney injury"
+  ]
+}

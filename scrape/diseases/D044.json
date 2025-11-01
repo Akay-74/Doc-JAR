@@ -1,0 +1,48 @@
+{
+  "disease_id": "D044",
+  "disease_name": "Urinary Tract Infection",
+  "description": "Medical condition: urinary tract infection",
+  "category": "Infectious Disease",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to urinary tract infection"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "WBC",
+      "reference_range": {}
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "diet": {
+      "general": "maintain balanced diet"
+    },
+    "lifestyle": {
+      "general": "regular exercise, adequate sleep"
+    },
+    "precautions": [
+      "follow medical advice"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "follow_up": "as directed by physician"
+  },
+  "when_to_see_doctor_urgently": [
+    "high fever >103\u00b0F",
+    "severe pain",
+    "confusion",
+    "difficulty breathing"
+  ]
+}

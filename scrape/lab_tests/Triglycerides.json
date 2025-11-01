@@ -1,0 +1,14 @@
+{
+  "test_name": "Triglycerides",
+  "normal": "<150",
+  "borderline_high": "150-199",
+  "high": "200-499",
+  "very_high": "\u2265500",
+  "unit": "mg/dL",
+  "abnormal_high_indication": [
+    "pancreatitis risk",
+    "metabolic syndrome",
+    "cardiovascular disease",
+    "diabetes"
+  ]
+}

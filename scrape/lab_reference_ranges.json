@@ -1,0 +1,445 @@
+[
+  {
+    "test_name": "WBC (White Blood Cell Count)",
+    "normal_range": "4,500-11,000",
+    "unit": "cells/μL",
+    "abnormal_low_indication": [
+      "immunosuppression",
+      "viral infection",
+      "bone marrow disorders",
+      "autoimmune disease",
+      "HIV/AIDS"
+    ],
+    "abnormal_high_indication": [
+      "bacterial infection",
+      "leukemia",
+      "inflammation",
+      "stress",
+      "tissue damage",
+      "smoking"
+    ],
+    "related_diseases": [
+      "D001",
+      "D045",
+      "D050"
+    ]
+  },
+  {
+    "test_name": "RBC (Red Blood Cell Count)",
+    "normal_range_male": "4.7-6.1 million",
+    "normal_range_female": "4.2-5.4 million",
+    "unit": "cells/μL",
+    "abnormal_low_indication": [
+      "anemia",
+      "blood loss",
+      "nutritional deficiency",
+      "bone marrow failure",
+      "hemolysis"
+    ],
+    "abnormal_high_indication": [
+      "dehydration",
+      "polycythemia",
+      "heart disease",
+      "lung disease",
+      "smoking"
+    ]
+  },
+  {
+    "test_name": "Hemoglobin",
+    "normal_range_male": "13.8-17.2",
+    "normal_range_female": "12.1-15.1",
+    "unit": "g/dL",
+    "abnormal_low_indication": [
+      "iron deficiency anemia",
+      "vitamin B12 deficiency",
+      "chronic disease",
+      "blood loss",
+      "thalassemia"
+    ],
+    "abnormal_high_indication": [
+      "polycythemia vera",
+      "COPD",
+      "heart disease",
+      "dehydration",
+      "high altitude living"
+    ]
+  },
+  {
+    "test_name": "Hematocrit",
+    "normal_range_male": "40.7-50.3",
+    "normal_range_female": "36.1-44.3",
+    "unit": "%",
+    "abnormal_low_indication": [
+      "anemia",
+      "blood loss",
+      "malnutrition",
+      "leukemia",
+      "overhydration"
+    ],
+    "abnormal_high_indication": [
+      "dehydration",
+      "polycythemia",
+      "lung disease"
+    ]
+  },
+  {
+    "test_name": "Platelet Count",
+    "normal_range": "150,000-400,000",
+    "unit": "cells/μL",
+    "abnormal_low_indication": [
+      "thrombocytopenia",
+      "dengue fever",
+      "ITP",
+      "bone marrow disorders",
+      "medication side effects",
+      "viral infections",
+      "autoimmune disease"
+    ],
+    "abnormal_high_indication": [
+      "thrombocytosis",
+      "iron deficiency",
+      "inflammation",
+      "cancer",
+      "infection",
+      "post-splenectomy"
+    ]
+  },
+  {
+    "test_name": "MCV (Mean Corpuscular Volume)",
+    "normal_range": "80-100",
+    "unit": "fL",
+    "abnormal_low_indication": [
+      "iron deficiency anemia",
+      "thalassemia",
+      "chronic disease"
+    ],
+    "abnormal_high_indication": [
+      "vitamin B12 deficiency",
+      "folate deficiency",
+      "liver disease",
+      "alcoholism"
+    ]
+  },
+  {
+    "test_name": "Glucose (Fasting)",
+    "normal_range": "70-100",
+    "prediabetes_range": "100-125",
+    "diabetes_range": ">126",
+    "unit": "mg/dL",
+    "abnormal_low_indication": [
+      "hypoglycemia",
+      "insulinoma",
+      "adrenal insufficiency",
+      "liver disease",
+      "malnutrition"
+    ],
+    "abnormal_high_indication": [
+      "diabetes mellitus",
+      "prediabetes",
+      "stress",
+      "cushing syndrome",
+      "pancreatitis"
+    ]
+  },
+  {
+    "test_name": "HbA1c (Glycated Hemoglobin)",
+    "normal_range": "<5.7",
+    "prediabetes_range": "5.7-6.4",
+    "diabetes_range": "≥6.5",
+    "unit": "%",
+    "abnormal_high_indication": [
+      "diabetes mellitus",
+      "poor glucose control",
+      "prediabetes"
+    ]
+  },
+  {
+    "test_name": "Creatinine",
+    "normal_range_male": "0.7-1.3",
+    "normal_range_female": "0.6-1.1",
+    "unit": "mg/dL",
+    "abnormal_high_indication": [
+      "chronic kidney disease",
+      "acute kidney injury",
+      "dehydration",
+      "muscle disorders"
+    ]
+  },
+  {
+    "test_name": "BUN (Blood Urea Nitrogen)",
+    "normal_range": "7-20",
+    "unit": "mg/dL",
+    "abnormal_high_indication": [
+      "kidney disease",
+      "dehydration",
+      "high protein diet",
+      "heart failure",
+      "GI bleeding"
+    ],
+    "abnormal_low_indication": [
+      "liver disease",
+      "malnutrition",
+      "overhydration"
+    ]
+  },
+  {
+    "test_name": "eGFR (Estimated Glomerular Filtration Rate)",
+    "normal_range": ">60",
+    "stage_3_ckd": "30-59",
+    "stage_4_ckd": "15-29",
+    "stage_5_ckd": "<15",
+    "unit": "mL/min/1.73m²",
+    "abnormal_low_indication": [
+      "chronic kidney disease",
+      "acute kidney injury"
+    ]
+  },
+  {
+    "test_name": "ALT (Alanine Aminotransferase)",
+    "normal_range": "7-56",
+    "unit": "U/L",
+    "abnormal_high_indication": [
+      "hepatitis",
+      "fatty liver disease",
+      "cirrhosis",
+      "liver damage",
+      "medication toxicity"
+    ]
+  },
+  {
+    "test_name": "AST (Aspartate Aminotransferase)",
+    "normal_range": "10-40",
+    "unit": "U/L",
+    "abnormal_high_indication": [
+      "liver disease",
+      "heart attack",
+      "muscle damage",
+      "hepatitis",
+      "cirrhosis"
+    ]
+  },
+  {
+    "test_name": "Bilirubin (Total)",
+    "normal_range": "0.1-1.2",
+    "unit": "mg/dL",
+    "abnormal_high_indication": [
+      "jaundice",
+      "liver disease",
+      "hemolytic anemia",
+      "bile duct obstruction",
+      "Gilbert syndrome"
+    ]
+  },
+  {
+    "test_name": "Alkaline Phosphatase",
+    "normal_range": "44-147",
+    "unit": "U/L",
+    "abnormal_high_indication": [
+      "liver disease",
+      "bone disorders",
+      "bile duct obstruction"
+    ]
+  },
+  {
+    "test_name": "Total Cholesterol",
+    "desirable": "<200",
+    "borderline_high": "200-239",
+    "high": "≥240",
+    "unit": "mg/dL",
+    "abnormal_high_indication": [
+      "hyperlipidemia",
+      "cardiovascular disease risk",
+      "familial hypercholesterolemia"
+    ]
+  },
+  {
+    "test_name": "LDL Cholesterol",
+    "optimal": "<100",
+    "near_optimal": "100-129",
+    "borderline_high": "130-159",
+    "high": "160-189",
+    "very_high": "≥190",
+    "unit": "mg/dL",
+    "abnormal_high_indication": [
+      "atherosclerosis risk",
+      "coronary artery disease",
+      "stroke risk"
+    ]
+  },
+  {
+    "test_name": "HDL Cholesterol",
+    "low_male": "<40",
+    "low_female": "<50",
+    "optimal": "≥60",
+    "unit": "mg/dL",
+    "abnormal_low_indication": [
+      "increased cardiovascular risk",
+      "metabolic syndrome"
+    ]
+  },
+  {
+    "test_name": "Triglycerides",
+    "normal": "<150",
+    "borderline_high": "150-199",
+    "high": "200-499",
+    "very_high": "≥500",
+    "unit": "mg/dL",
+    "abnormal_high_indication": [
+      "pancreatitis risk",
+      "metabolic syndrome",
+      "cardiovascular disease",
+      "diabetes"
+    ]
+  },
+  {
+    "test_name": "TSH (Thyroid Stimulating Hormone)",
+    "normal_range": "0.4-4.0",
+    "unit": "mIU/L",
+    "abnormal_low_indication": [
+      "hyperthyroidism",
+      "graves disease",
+      "thyroiditis"
+    ],
+    "abnormal_high_indication": [
+      "hypothyroidism",
+      "hashimoto thyroiditis",
+      "iodine deficiency"
+    ]
+  },
+  {
+    "test_name": "Free T4",
+    "normal_range": "0.8-1.8",
+    "unit": "ng/dL",
+    "abnormal_low_indication": [
+      "hypothyroidism"
+    ],
+    "abnormal_high_indication": [
+      "hyperthyroidism"
+    ]
+  },
+  {
+    "test_name": "Sodium",
+    "normal_range": "136-145",
+    "unit": "mEq/L",
+    "abnormal_low_indication": [
+      "hyponatremia",
+      "SIADH",
+      "heart failure",
+      "diuretic use"
+    ],
+    "abnormal_high_indication": [
+      "hypernatremia",
+      "dehydration",
+      "diabetes insipidus"
+    ]
+  },
+  {
+    "test_name": "Potassium",
+    "normal_range": "3.5-5.0",
+    "unit": "mEq/L",
+    "abnormal_low_indication": [
+      "hypokalemia",
+      "diarrhea",
+      "vomiting",
+      "diuretic use"
+    ],
+    "abnormal_high_indication": [
+      "hyperkalemia",
+      "kidney disease",
+      "medication side effect",
+      "adrenal insufficiency"
+    ]
+  },
+  {
+    "test_name": "Calcium",
+    "normal_range": "8.5-10.2",
+    "unit": "mg/dL",
+    "abnormal_low_indication": [
+      "hypocalcemia",
+      "vitamin D deficiency",
+      "hypoparathyroidism"
+    ],
+    "abnormal_high_indication": [
+      "hypercalcemia",
+      "hyperparathyroidism",
+      "cancer",
+      "vitamin D toxicity"
+    ]
+  },
+  {
+    "test_name": "CRP (C-Reactive Protein)",
+    "normal_range": "<3.0",
+    "unit": "mg/L",
+    "abnormal_high_indication": [
+      "inflammation",
+      "infection",
+      "cardiovascular disease risk",
+      "autoimmune disease"
+    ]
+  },
+  {
+    "test_name": "ESR (Erythrocyte Sedimentation Rate)",
+    "normal_range_male": "0-15",
+    "normal_range_female": "0-20",
+    "unit": "mm/hr",
+    "abnormal_high_indication": [
+      "inflammation",
+      "infection",
+      "autoimmune disease",
+      "cancer",
+      "anemia"
+    ]
+  },
+  {
+    "test_name": "Troponin",
+    "normal_range": "<0.04",
+    "unit": "ng/mL",
+    "abnormal_high_indication": [
+      "myocardial infarction",
+      "heart attack",
+      "myocarditis",
+      "heart failure"
+    ]
+  },
+  {
+    "test_name": "PT/INR (Prothrombin Time)",
+    "normal_range": "11-13.5 seconds / INR 0.8-1.1",
+    "therapeutic_anticoagulation": "INR 2.0-3.0",
+    "unit": "seconds / ratio",
+    "abnormal_high_indication": [
+      "bleeding risk",
+      "liver disease",
+      "vitamin K deficiency",
+      "warfarin therapy"
+    ]
+  },
+  {
+    "test_name": "aPTT (Activated Partial Thromboplastin Time)",
+    "normal_range": "25-35",
+    "unit": "seconds",
+    "abnormal_high_indication": [
+      "bleeding disorder",
+      "heparin therapy",
+      "hemophilia"
+    ]
+  },
+  {
+    "test_name": "Protein in Urine",
+    "normal_range": "Negative or trace",
+    "unit": "mg/dL",
+    "abnormal_high_indication": [
+      "kidney disease",
+      "diabetes",
+      "hypertension",
+      "urinary tract infection"
+    ]
+  },
+  {
+    "test_name": "Glucose in Urine",
+    "normal_range": "Negative",
+    "abnormal_high_indication": [
+      "diabetes mellitus",
+      "kidney disease"
+    ]
+  }
+]

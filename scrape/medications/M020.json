@@ -1,0 +1,36 @@
+{
+  "drug_id": "M020",
+  "generic_name": "OMEPRAZOLE",
+  "brand_names": [
+    "Omeprazole"
+  ],
+  "drug_class": "Proton Pump Inhibitor [EPC]",
+  "indications": [
+    "D051"
+  ],
+  "dosage_protocol": {
+    "adult_dose": "20-40mg",
+    "pediatric_dose": null,
+    "frequency": "once daily",
+    "duration": "4-8 weeks",
+    "timing": "30 minutes before breakfast",
+    "max_daily_dose": null
+  },
+  "adverse_effects": [],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

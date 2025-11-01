@@ -1,0 +1,22 @@
+{
+  "test_name": "Platelet Count",
+  "normal_range": "150,000-400,000",
+  "unit": "cells/\u03bcL",
+  "abnormal_low_indication": [
+    "thrombocytopenia",
+    "dengue fever",
+    "ITP",
+    "bone marrow disorders",
+    "medication side effects",
+    "viral infections",
+    "autoimmune disease"
+  ],
+  "abnormal_high_indication": [
+    "thrombocytosis",
+    "iron deficiency",
+    "inflammation",
+    "cancer",
+    "infection",
+    "post-splenectomy"
+  ]
+}

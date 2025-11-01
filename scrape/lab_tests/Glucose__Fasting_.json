@@ -1,0 +1,21 @@
+{
+  "test_name": "Glucose (Fasting)",
+  "normal_range": "70-100",
+  "prediabetes_range": "100-125",
+  "diabetes_range": ">126",
+  "unit": "mg/dL",
+  "abnormal_low_indication": [
+    "hypoglycemia",
+    "insulinoma",
+    "adrenal insufficiency",
+    "liver disease",
+    "malnutrition"
+  ],
+  "abnormal_high_indication": [
+    "diabetes mellitus",
+    "prediabetes",
+    "stress",
+    "cushing syndrome",
+    "pancreatitis"
+  ]
+}

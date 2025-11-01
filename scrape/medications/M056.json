@@ -1,0 +1,45 @@
+{
+  "drug_id": "M056",
+  "generic_name": "AMLODIPINE BESYLATE",
+  "brand_names": [
+    "Amlodipine Besylate"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": {
+    "adult_dose": "5-10mg",
+    "pediatric_dose": null,
+    "frequency": "once daily",
+    "duration": "chronic therapy",
+    "timing": "same time each day",
+    "max_daily_dose": null
+  },
+  "adverse_effects": [
+    "Dyspnea",
+    "Insomnia",
+    "Nausea",
+    "Dizziness",
+    "Tachycardia",
+    "Constipation",
+    "Fatigue",
+    "Vomiting",
+    "Bradycardia",
+    "Rash"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

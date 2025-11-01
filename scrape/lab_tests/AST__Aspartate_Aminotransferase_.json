@@ -1,0 +1,12 @@
+{
+  "test_name": "AST (Aspartate Aminotransferase)",
+  "normal_range": "10-40",
+  "unit": "U/L",
+  "abnormal_high_indication": [
+    "liver disease",
+    "heart attack",
+    "muscle damage",
+    "hepatitis",
+    "cirrhosis"
+  ]
+}

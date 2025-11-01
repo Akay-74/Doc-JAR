@@ -1,0 +1,75 @@
+{
+  "disease_id": "D085",
+  "disease_name": "Diabetes Mellitus Type 1",
+  "description": "Medical condition: diabetes mellitus type 1",
+  "category": "Metabolic Disorder",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to diabetes mellitus type 1"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "Glucose (Fasting)",
+      "reference_range": {
+        "test_name": "Glucose (Fasting)",
+        "normal_range": "70-100",
+        "prediabetes_range": "100-125",
+        "diabetes_range": ">126",
+        "unit": "mg/dL",
+        "abnormal_low_indication": [
+          "hypoglycemia",
+          "insulinoma",
+          "adrenal insufficiency",
+          "liver disease",
+          "malnutrition"
+        ],
+        "abnormal_high_indication": [
+          "diabetes mellitus",
+          "prediabetes",
+          "stress",
+          "cushing syndrome",
+          "pancreatitis"
+        ]
+      }
+    },
+    {
+      "test_name": "HbA1c",
+      "reference_range": {}
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "diet": {
+      "general": "maintain balanced diet"
+    },
+    "lifestyle": {
+      "general": "regular exercise, adequate sleep"
+    },
+    "precautions": [
+      "follow medical advice"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "HbA1c": "every 3 months if not at goal, every 6 months if stable",
+    "fasting_glucose": "as needed for adjustments",
+    "lipid_panel": "annually",
+    "kidney_function": "annually",
+    "eye_exam": "annually",
+    "foot_exam": "at each visit"
+  },
+  "when_to_see_doctor_urgently": [
+    "severe hypoglycemia",
+    "diabetic ketoacidosis symptoms"
+  ]
+}

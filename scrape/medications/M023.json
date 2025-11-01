@@ -1,0 +1,48 @@
+{
+  "drug_id": "M023",
+  "generic_name": "CIPROFLOXACIN",
+  "brand_names": [
+    "ciprofloxacin"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": {
+    "adult_dose": "500mg",
+    "pediatric_dose": null,
+    "frequency": "twice daily",
+    "duration": "7-14 days",
+    "timing": "with plenty of water",
+    "max_daily_dose": null
+  },
+  "adverse_effects": [
+    "Edema",
+    "Nausea"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [
+    {
+      "drug_name_or_class": "anticoagulant",
+      "effect": "Increased bleeding risk"
+    },
+    {
+      "drug_name_or_class": "warfarin",
+      "effect": "Significantly increased bleeding risk"
+    }
+  ],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "test_name": "Total Cholesterol",
+  "desirable": "<200",
+  "borderline_high": "200-239",
+  "high": "\u2265240",
+  "unit": "mg/dL",
+  "abnormal_high_indication": [
+    "hyperlipidemia",
+    "cardiovascular disease risk",
+    "familial hypercholesterolemia"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "drug_id": "M112",
+  "generic_name": "DENOSUMAB-BMWO",
+  "brand_names": [
+    "Stoboclo"
+  ],
+  "drug_class": "RANK Ligand Inhibitor [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Insomnia",
+    "Hypertension",
+    "Dizziness",
+    "Headache",
+    "Constipation",
+    "Vomiting",
+    "Rash",
+    "Edema",
+    "Abdominal pain"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": [
+      "Pregnancy"
+    ]
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

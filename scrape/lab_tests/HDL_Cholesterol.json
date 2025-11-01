@@ -1,0 +1,11 @@
+{
+  "test_name": "HDL Cholesterol",
+  "low_male": "<40",
+  "low_female": "<50",
+  "optimal": "\u226560",
+  "unit": "mg/dL",
+  "abnormal_low_indication": [
+    "increased cardiovascular risk",
+    "metabolic syndrome"
+  ]
+}

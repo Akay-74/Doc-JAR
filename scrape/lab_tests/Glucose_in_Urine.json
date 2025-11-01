@@ -1,0 +1,8 @@
+{
+  "test_name": "Glucose in Urine",
+  "normal_range": "Negative",
+  "abnormal_high_indication": [
+    "diabetes mellitus",
+    "kidney disease"
+  ]
+}

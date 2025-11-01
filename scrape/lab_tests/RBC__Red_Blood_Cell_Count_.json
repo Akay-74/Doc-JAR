@@ -1,0 +1,20 @@
+{
+  "test_name": "RBC (Red Blood Cell Count)",
+  "normal_range_male": "4.7-6.1 million",
+  "normal_range_female": "4.2-5.4 million",
+  "unit": "cells/\u03bcL",
+  "abnormal_low_indication": [
+    "anemia",
+    "blood loss",
+    "nutritional deficiency",
+    "bone marrow failure",
+    "hemolysis"
+  ],
+  "abnormal_high_indication": [
+    "dehydration",
+    "polycythemia",
+    "heart disease",
+    "lung disease",
+    "smoking"
+  ]
+}

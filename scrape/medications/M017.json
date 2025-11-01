@@ -1,0 +1,38 @@
+{
+  "drug_id": "M017",
+  "generic_name": "CEFDINIR",
+  "brand_names": [
+    "Cefdinir"
+  ],
+  "drug_class": "Cephalosporin Antibacterial [EPC]",
+  "indications": [],
+  "dosage_protocol": null,
+  "adverse_effects": [
+    "Insomnia",
+    "Nausea",
+    "Dizziness",
+    "Hypertension",
+    "Headache",
+    "Constipation",
+    "Vomiting",
+    "Rash",
+    "Dry mouth",
+    "Edema"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

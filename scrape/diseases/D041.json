@@ -1,0 +1,46 @@
+{
+  "disease_id": "D041",
+  "disease_name": "Alzheimers Disease",
+  "description": "Medical condition: alzheimers disease",
+  "category": "Neurological Disorder",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to alzheimers disease"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "Clinical evaluation and appropriate tests",
+      "diagnostic_finding": "As indicated for alzheimers disease",
+      "necessity": "High"
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "diet": {
+      "general": "maintain balanced diet"
+    },
+    "lifestyle": {
+      "general": "regular exercise, adequate sleep"
+    },
+    "precautions": [
+      "follow medical advice"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "follow_up": "as directed by physician"
+  },
+  "when_to_see_doctor_urgently": [
+    "seek immediate medical attention if condition worsens"
+  ]
+}

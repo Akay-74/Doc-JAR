@@ -1,0 +1,93 @@
+{
+  "disease_id": "D006",
+  "disease_name": "Anemia",
+  "description": "Medical condition: anemia",
+  "category": "Hematological Disorder",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to anemia"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "Hemoglobin",
+      "reference_range": {
+        "test_name": "Hemoglobin",
+        "normal_range_male": "13.8-17.2",
+        "normal_range_female": "12.1-15.1",
+        "unit": "g/dL",
+        "abnormal_low_indication": [
+          "iron deficiency anemia",
+          "vitamin B12 deficiency",
+          "chronic disease",
+          "blood loss",
+          "thalassemia"
+        ],
+        "abnormal_high_indication": [
+          "polycythemia vera",
+          "COPD",
+          "heart disease",
+          "dehydration",
+          "high altitude living"
+        ]
+      }
+    },
+    {
+      "test_name": "Hematocrit",
+      "reference_range": {
+        "test_name": "Hematocrit",
+        "normal_range_male": "40.7-50.3",
+        "normal_range_female": "36.1-44.3",
+        "unit": "%",
+        "abnormal_low_indication": [
+          "anemia",
+          "blood loss",
+          "malnutrition",
+          "leukemia",
+          "overhydration"
+        ],
+        "abnormal_high_indication": [
+          "dehydration",
+          "polycythemia",
+          "lung disease"
+        ]
+      }
+    },
+    {
+      "test_name": "RBC",
+      "reference_range": {}
+    },
+    {
+      "test_name": "MCV",
+      "reference_range": {}
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "diet": {
+      "general": "maintain balanced diet"
+    },
+    "lifestyle": {
+      "general": "regular exercise, adequate sleep"
+    },
+    "precautions": [
+      "follow medical advice"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "follow_up": "as directed by physician"
+  },
+  "when_to_see_doctor_urgently": [
+    "seek immediate medical attention if condition worsens"
+  ]
+}

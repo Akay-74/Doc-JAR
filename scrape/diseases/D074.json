@@ -1,0 +1,69 @@
+{
+  "disease_id": "D074",
+  "disease_name": "Bacterial Pneumonia",
+  "description": "Medical condition: bacterial pneumonia",
+  "category": "Infectious Disease",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to bacterial pneumonia"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "Clinical evaluation and appropriate tests",
+      "diagnostic_finding": "As indicated for bacterial pneumonia",
+      "necessity": "High"
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "diet": {
+      "general": "maintain balanced diet"
+    },
+    "lifestyle": {
+      "general": "regular exercise, adequate sleep"
+    },
+    "precautions": [
+      "follow medical advice"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "follow_up": "as directed by physician"
+  },
+  "when_to_see_doctor_urgently": [
+    "seek immediate medical attention if condition worsens"
+  ],
+  "treatment_protocol": {
+    "severity_stratification": {
+      "outpatient_no_comorbidities": {
+        "first_line": "amoxicillin 1g three times daily for 7 days",
+        "alternative": "doxycycline 100mg twice daily for 7 days",
+        "macrolide_option": "azithromycin 500mg day 1, then 250mg daily for 4 days"
+      },
+      "outpatient_with_comorbidities": {
+        "first_line": "amoxicillin-clavulanate 875mg twice daily + azithromycin 500mg daily for 7 days",
+        "alternative": "levofloxacin 750mg daily for 5 days"
+      },
+      "hospitalized": {
+        "first_line": "ceftriaxone 1-2g IV daily + azithromycin 500mg IV daily",
+        "severe": "ceftriaxone 2g IV + azithromycin 500mg IV OR piperacillin-tazobactam + levofloxacin"
+      }
+    },
+    "supportive_care": [
+      "rest",
+      "hydration",
+      "fever management with acetaminophen"
+    ],
+    "follow_up": "chest X-ray in 6 weeks if high risk"
+  }
+}

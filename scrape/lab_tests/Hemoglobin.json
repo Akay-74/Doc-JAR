@@ -1,0 +1,20 @@
+{
+  "test_name": "Hemoglobin",
+  "normal_range_male": "13.8-17.2",
+  "normal_range_female": "12.1-15.1",
+  "unit": "g/dL",
+  "abnormal_low_indication": [
+    "iron deficiency anemia",
+    "vitamin B12 deficiency",
+    "chronic disease",
+    "blood loss",
+    "thalassemia"
+  ],
+  "abnormal_high_indication": [
+    "polycythemia vera",
+    "COPD",
+    "heart disease",
+    "dehydration",
+    "high altitude living"
+  ]
+}

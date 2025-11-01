@@ -1,0 +1,18 @@
+{
+  "test_name": "Hematocrit",
+  "normal_range_male": "40.7-50.3",
+  "normal_range_female": "36.1-44.3",
+  "unit": "%",
+  "abnormal_low_indication": [
+    "anemia",
+    "blood loss",
+    "malnutrition",
+    "leukemia",
+    "overhydration"
+  ],
+  "abnormal_high_indication": [
+    "dehydration",
+    "polycythemia",
+    "lung disease"
+  ]
+}

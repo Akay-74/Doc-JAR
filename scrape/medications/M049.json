@@ -1,0 +1,34 @@
+{
+  "drug_id": "M049",
+  "generic_name": "FLUTICASONE PROPIONATE NASAL",
+  "brand_names": [
+    "Fluticasone Propionate"
+  ],
+  "drug_class": "Unknown",
+  "indications": [],
+  "dosage_protocol": {
+    "adult_dose": "88-440mcg",
+    "pediatric_dose": "44-176mcg",
+    "frequency": "twice daily",
+    "duration": "chronic therapy",
+    "timing": "inhaler, rinse mouth after",
+    "max_daily_dose": null
+  },
+  "adverse_effects": [],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "test_name": "TSH (Thyroid Stimulating Hormone)",
+  "normal_range": "0.4-4.0",
+  "unit": "mIU/L",
+  "abnormal_low_indication": [
+    "hyperthyroidism",
+    "graves disease",
+    "thyroiditis"
+  ],
+  "abnormal_high_indication": [
+    "hypothyroidism",
+    "hashimoto thyroiditis",
+    "iodine deficiency"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "test_name": "Sodium",
+  "normal_range": "136-145",
+  "unit": "mEq/L",
+  "abnormal_low_indication": [
+    "hyponatremia",
+    "SIADH",
+    "heart failure",
+    "diuretic use"
+  ],
+  "abnormal_high_indication": [
+    "hypernatremia",
+    "dehydration",
+    "diabetes insipidus"
+  ]
+}

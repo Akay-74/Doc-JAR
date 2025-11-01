@@ -1,0 +1,12 @@
+{
+  "test_name": "Bilirubin (Total)",
+  "normal_range": "0.1-1.2",
+  "unit": "mg/dL",
+  "abnormal_high_indication": [
+    "jaundice",
+    "liver disease",
+    "hemolytic anemia",
+    "bile duct obstruction",
+    "Gilbert syndrome"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "test_name": "CRP (C-Reactive Protein)",
+  "normal_range": "<3.0",
+  "unit": "mg/L",
+  "abnormal_high_indication": [
+    "inflammation",
+    "infection",
+    "cardiovascular disease risk",
+    "autoimmune disease"
+  ]
+}

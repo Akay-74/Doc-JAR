@@ -1,0 +1,12 @@
+{
+  "test_name": "ALT (Alanine Aminotransferase)",
+  "normal_range": "7-56",
+  "unit": "U/L",
+  "abnormal_high_indication": [
+    "hepatitis",
+    "fatty liver disease",
+    "cirrhosis",
+    "liver damage",
+    "medication toxicity"
+  ]
+}

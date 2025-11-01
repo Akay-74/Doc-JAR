@@ -1,0 +1,12 @@
+{
+  "test_name": "HbA1c (Glycated Hemoglobin)",
+  "normal_range": "<5.7",
+  "prediabetes_range": "5.7-6.4",
+  "diabetes_range": "\u22656.5",
+  "unit": "%",
+  "abnormal_high_indication": [
+    "diabetes mellitus",
+    "poor glucose control",
+    "prediabetes"
+  ]
+}

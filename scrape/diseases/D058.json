@@ -1,0 +1,64 @@
+{
+  "disease_id": "D058",
+  "disease_name": "Acute Kidney Injury",
+  "description": "Medical condition: acute kidney injury",
+  "category": "Renal Disease",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to acute kidney injury"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "Creatinine",
+      "reference_range": {
+        "test_name": "Creatinine",
+        "normal_range_male": "0.7-1.3",
+        "normal_range_female": "0.6-1.1",
+        "unit": "mg/dL",
+        "abnormal_high_indication": [
+          "chronic kidney disease",
+          "acute kidney injury",
+          "dehydration",
+          "muscle disorders"
+        ]
+      }
+    },
+    {
+      "test_name": "BUN",
+      "reference_range": {}
+    },
+    {
+      "test_name": "eGFR",
+      "reference_range": {}
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "diet": {
+      "general": "maintain balanced diet"
+    },
+    "lifestyle": {
+      "general": "regular exercise, adequate sleep"
+    },
+    "precautions": [
+      "follow medical advice"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "follow_up": "as directed by physician"
+  },
+  "when_to_see_doctor_urgently": [
+    "seek immediate medical attention if condition worsens"
+  ]
+}

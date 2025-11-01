@@ -1,0 +1,65 @@
+{
+  "disease_id": "D051",
+  "disease_name": "Gastroesophageal Reflux Disease",
+  "description": "Medical condition: gastroesophageal reflux disease",
+  "category": "Gastrointestinal Disease",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to gastroesophageal reflux disease"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "Clinical evaluation and appropriate tests",
+      "diagnostic_finding": "As indicated for gastroesophageal reflux disease",
+      "necessity": "High"
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "diet": {
+      "general": "maintain balanced diet"
+    },
+    "lifestyle": {
+      "general": "regular exercise, adequate sleep"
+    },
+    "precautions": [
+      "follow medical advice"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "follow_up": "as directed by physician"
+  },
+  "when_to_see_doctor_urgently": [
+    "seek immediate medical attention if condition worsens"
+  ],
+  "treatment_protocol": {
+    "initial_therapy": {
+      "PPI": [
+        "omeprazole 20mg daily before breakfast for 8 weeks",
+        "pantoprazole 40mg daily",
+        "esomeprazole 20mg daily"
+      ],
+      "H2_blocker_alternative": "famotidine 20mg twice daily"
+    },
+    "refractory": {
+      "increase_to": "omeprazole 40mg daily or twice daily",
+      "add": "baclofen or metoclopramide if needed"
+    },
+    "maintenance": {
+      "step_down": "lowest effective dose after 8-12 weeks",
+      "on_demand": "consider for mild symptoms"
+    },
+    "lifestyle_critical": "elevate head of bed, avoid food 2-3 hours before bed, dietary modifications"
+  }
+}

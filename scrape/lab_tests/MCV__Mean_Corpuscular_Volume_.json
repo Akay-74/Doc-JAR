@@ -1,0 +1,16 @@
+{
+  "test_name": "MCV (Mean Corpuscular Volume)",
+  "normal_range": "80-100",
+  "unit": "fL",
+  "abnormal_low_indication": [
+    "iron deficiency anemia",
+    "thalassemia",
+    "chronic disease"
+  ],
+  "abnormal_high_indication": [
+    "vitamin B12 deficiency",
+    "folate deficiency",
+    "liver disease",
+    "alcoholism"
+  ]
+}

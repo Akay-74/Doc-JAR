@@ -1,0 +1,62 @@
+{
+  "disease_id": "D067",
+  "disease_name": "Depression",
+  "description": "Medical condition: depression",
+  "category": "Psychiatric Disorder",
+  "symptoms": [
+    {
+      "name": "Variable symptoms",
+      "importance": "Medium",
+      "details": "Specific to depression"
+    }
+  ],
+  "diagnostic_tests": [
+    {
+      "test_name": "Clinical evaluation and appropriate tests",
+      "diagnostic_finding": "As indicated for depression",
+      "necessity": "High"
+    }
+  ],
+  "risk_factors": [
+    "age",
+    "family history",
+    "lifestyle factors"
+  ],
+  "complications": [
+    "progression of disease",
+    "organ damage"
+  ],
+  "dietary_lifestyle_advice": {
+    "lifestyle": {
+      "exercise": "30 minutes most days, proven to help mood",
+      "sleep_hygiene": "regular sleep schedule, 7-9 hours",
+      "social_connection": "maintain relationships, join support groups",
+      "stress_management": "meditation, mindfulness, therapy",
+      "sunlight_exposure": "morning sunlight helps circadian rhythm"
+    },
+    "diet": {
+      "foods_to_eat": [
+        "omega-3 rich foods",
+        "whole grains",
+        "fruits",
+        "vegetables"
+      ],
+      "foods_to_limit": [
+        "alcohol",
+        "caffeine",
+        "processed foods"
+      ]
+    },
+    "precautions": [
+      "avoid alcohol while on antidepressants",
+      "don't stop medications abruptly",
+      "seek help if suicidal thoughts occur"
+    ]
+  },
+  "test_monitoring_schedule": {
+    "follow_up": "as directed by physician"
+  },
+  "when_to_see_doctor_urgently": [
+    "seek immediate medical attention if condition worsens"
+  ]
+}

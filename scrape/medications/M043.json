@@ -1,0 +1,47 @@
+{
+  "drug_id": "M043",
+  "generic_name": "ALPRAZOLAM",
+  "brand_names": [
+    "Alprazolam"
+  ],
+  "drug_class": "Benzodiazepine [EPC]",
+  "indications": [],
+  "dosage_protocol": {
+    "adult_dose": "0.25-0.5mg",
+    "pediatric_dose": null,
+    "frequency": "2-3 times daily as needed",
+    "duration": "short-term use only",
+    "timing": "as needed",
+    "max_daily_dose": "4mg"
+  },
+  "adverse_effects": [
+    "Insomnia",
+    "Nausea",
+    "Dizziness",
+    "Weakness",
+    "Headache",
+    "Fatigue",
+    "Vomiting",
+    "Constipation",
+    "Tachycardia",
+    "Rash"
+  ],
+  "adverse_effect_management": [],
+  "contraindications": {
+    "allergies": [
+      "Hypersensitivity to this medication"
+    ],
+    "existing_diseases": [],
+    "other_conditions": []
+  },
+  "drug_interactions": [],
+  "pregnancy_category": "Consult prescribing information",
+  "special_populations": {
+    "pregnancy": "Unknown",
+    "breastfeeding": "Unknown",
+    "pediatric": "Consult guidelines",
+    "geriatric": "May need dose adjustment",
+    "renal_impairment": "Monitor and adjust as needed",
+    "hepatic_impairment": "Use with caution"
+  }
+}
