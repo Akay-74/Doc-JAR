@@ -1,0 +1,22 @@
+{
+  "drug_id": "M002",
+  "generic_name": "Ibuprofen",
+  "indications": ["D001"],
+  "contraindications": {
+    "existing_diseases": ["stomach_ulcers", "chronic_kidney_disease"],
+    "allergies": ["ibuprofen", "aspirin"],
+    "is_pregnant": true
+  },
+  "drug_interactions": [
+    "Aspirin",
+    "Warfarin",
+    "Lithium"
+  ],
+  
+  "adverse_effects": [
+    {"name": "Nausea", "severity": "Common"},
+    {"name": "Stomach upset", "severity": "Common"},
+    {"name": "Dizziness", "severity": "Mild"},
+    {"name": "Headache", "severity": "Common"}
+  ]
+}

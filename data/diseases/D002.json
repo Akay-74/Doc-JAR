@@ -1,0 +1,16 @@
+{
+  "disease_id": "D002",
+  "disease_name": "Diabetes Type 2",
+  "symptoms": [
+    {"name": "Increased thirst", "details": "Polydipsia"},
+    {"name": "Frequent urination", "details": "Polyuria"},
+    {"name": "Extreme hunger", "details": "Polyphagia"},
+    {"name": "Unexplained weight loss", "details": ""},
+    {"name": "Fatigue", "details": "Persistent tiredness"},
+    {"name": "Blurred vision", "details": ""}
+  ],
+  "diagnostic_tests": [
+    {"test_name": "Fasting Plasma Glucose (FPG)"},
+    {"test_name": "A1C test"}
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "drug_id": "M001",
+  "generic_name": "Paracetamol (Acetaminophen)",
+  "indications": ["D001"],
+  "contraindications": {
+    "existing_diseases": ["severe_liver_disease"],
+    "allergies": ["acetaminophen"],
+    "is_pregnant": false
+  },
+  "drug_interactions": [
+    "Warfarin",
+    "Alcohol"
+  ],
+  "adverse_effects": [
+    {"name": "Nausea", "severity": "Rare"},
+    {"name": "Allergic reaction", "severity": "Rare"},
+    {"name": "Liver damage", "severity": "Overdose"}
+  ]
+}

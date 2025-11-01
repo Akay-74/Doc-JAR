@@ -1,0 +1,16 @@
+{
+  "disease_id": "D001",
+  "disease_name": "Common Cold",
+  "symptoms": [
+    {"name": "Runny nose", "details": "Clear or yellow discharge"},
+    {"name": "Sore throat", "details": "Scratchy feeling"},
+    {"name": "Cough", "details": "Mild, can be dry or productive"},
+    {"name": "Fever", "details": "Low-grade fever, usually below 101°F"},
+    {"name": "Sneezing", "details": ""},
+    {"name": "Headache", "details": "Mild, pressure-like"}
+  ],
+  "diagnostic_tests": [
+    {"test_name": "Clinical observation"},
+    {"test_name": "Rapid flu test (to rule out influenza)"}
+  ]
+}
