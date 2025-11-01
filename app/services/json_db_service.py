@@ -3,7 +3,6 @@ import json
 import os
 from sentence_transformers import SentenceTransformer
 from typing import List, Dict, Any
-
 # Initialize ChromaDB client and embedding model
 # Using PersistentClient to save the DB to disk in the './chroma_db' directory
 try:

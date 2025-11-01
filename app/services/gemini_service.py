@@ -3,6 +3,7 @@ import os
 import json
 from typing import List, Dict, Any
 
+GEMINI_API_KEY="AIzaSyBFfcQ8IxMAR2vO_sDDMY_HRltTQo050PE"
 # Configure the API key
 try:
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])

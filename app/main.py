@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 # Load environment variables (GEMINI_API_KEY)
 # This should be at the top, before services are imported (though services load it too)
 load_dotenv()
-
+GEMINI_API_KEY="AIzaSyBFfcQ8IxMAR2vO_sDDMY_HRltTQo050PE"
 if not os.environ.get("GEMINI_API_KEY"):
     print("FATAL ERROR: GEMINI_API_KEY is not set. Please create a .env file.")
     # The app will fail, but this print makes it clear why.

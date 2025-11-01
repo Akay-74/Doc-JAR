@@ -1,6 +1,6 @@
 from pydantic import BaseModel, Field
 from typing import List, Dict, Optional, Any
-
+GEMINI_API_KEY="AIzaSyBFfcQ8IxMAR2vO_sDDMY_HRltTQo050PE"
 # MODEL FOR THE USER'S INPUT JSON
 class PatientInput(BaseModel):
     symptoms_text: str = Field(..., description="Unstructured text of patient symptoms, e.g., 'Had a fever for 5 days'")
